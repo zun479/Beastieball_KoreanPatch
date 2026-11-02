@@ -4,6 +4,9 @@
 
 > ⚠️ 이 프로젝트는 개발사 Wishes Unlimited와 관련이 없습니다.
 
+<img width="1920" height="1080" alt="Beastieball 2026-11-03 오전 2_33_28" src="https://github.com/user-attachments/assets/1d5096e6-09c5-4779-80e3-e24d5b493e92" />
+
+
 ## 번역 진행도 (v0.1)
 
 ![번역 진행도](https://img.shields.io/badge/%EB%B2%88%EC%97%AD%20%EC%A7%84%ED%96%89%EB%8F%84-8.5%25-blue)

@@ -3445,59 +3445,59 @@ SceneManager_Draw64_005,Skip Scene
 SceneManager_Draw64_006,Exit Replay
 SceneManager_Draw64scribble_001,[slant][d#{1}]{0}: [/color][/slant]
 SceneManager_Draw75_001,Press F8 to send feedback
-sportsetup_Say_001,"When your team has the ball,| you have 3 ACTIONS to work with."
-sportsetup_Say_002,"You should try to [scaleStack,1.2]use ALL 3 ACTIONS as often as possible."
-sportsetup_Say_003,"Beasties who [slant]don't[/slant] have the ball can use [sprIcon,4]SUPPORT actions too!"
-sportsetup_Say_004,A FEELING (like {0}) is a temporary status effect.|| They can be good or bad!
-sportsetup_Say_005,"It counts down each turn,| and wears off when the count reaches 0."
-sportsetup_Say_006,"BOOSTs ([sprBoost,2][sprBoost,5]) are temporary stat changes."
-sportsetup_Say_007,"Even one [sprBoost,0][sprBoost,3]BOOST makes a big difference.| But they wear off when a Beastie TAGS OUT or when the point ends."
-sportsetup_Say_008,TRAP is a FIELD EFFECT.|| Each TRAP wears down Beasties' stamina by {0} when they TAG IN.
-sportsetup_Say_009,"It can be stacked up to {0} times,| wearing down significant stamina.|| Be careful!"
-sportsetup_Say_010,RALLY is a FIELD EFFECT that attracts wild Beasties to cheer for the match!
-sportsetup_Say_011,"[sprIcon,1]SPIRIT attacks do +{2} damage!|| But it's harder to focus, so [sprIcon,2]MIND attacks do {1} damage."
-sportsetup_Say_012,"The crowd will slowly disperse each round,| but it can also grow if Beasties keep RALLYing."
-sportsetup_Say_013,RHYTHM is a FIELD EFFECT lasting {1} turns that restores {0} stamina each turn for affected Beasties!
-sportsetup_Say_014,"They'll also be protected from some bad FEELINGs: {0},| {1}, {2} and {3}."
-sportsetup_Say_015,DREAD is a FIELD EFFECT that wears down Beasties' stamina by {0} each turn.
-sportsetup_Say_016,"It also prevents good FEELINGs like {0}, {1} and {2}."
-sportsetup_Say_017,Using Build creates a BARRIER in front of the user!
-sportsetup_Say_018,"The BARRIER is destroyed by any attack,| but it will also reduce that attack's damage to 0."
-sportsetup_Say_019,"A Beastie that feels {0} is down for the count.|| They'll drop anything that hits them,| and can only use Free Ball."
-sportsetup_Say_020,"Until you heal them,| you'll be in trouble!"
-sportsetup_Say_021,"Once you've recruited more Beasties,| they could TAG OUT and recover on the bench!"
-sportsetup_Say_022,They can recover only if they TAG OUT and wait on the bench.
-sportsetup_Say_023,"When Beasties are {0},| you're in trouble!"
-sportsetup_Say_024,"Once you've recruited more Beasties,| they could TAG OUT and recover on the bench!"
-sportsetup_Say_025,They can recover only if they TAG OUT and wait on the bench.
-sportsetup_Say_026,"If a {0} Beastie is benched long enough,| it wears off and they recover their STAMINA!"
-sportsetup_Say_027,"However,| they'll be {0},| which depletes STAMINA while they're on field."
-sportsetup_Say_028,"When a Beastie is {0} without receiving the ball,| they feel DRAINED."
-sportsetup_Say_029,"Their will to play is sapped,| so they'll stay {0} for longer..."
-sportsetup_Say_030,Typically you need to VOLLEY before you can hit the ball back.
-sportsetup_Say_031,"But an [scaleStack,1.25]EASY RECEIVE[scaleStack,.8]| is a weak hit that doesn't need to be VOLLEYed."
-sportsetup_Say_032,"That leaves extra ACTIONs for your ally to use [sprIcon,4]Support plays before you attack!"
-sportsetup_Say_033,"If your party is low on stamina,| continuing forward can be difficult."
-sportsetup_Say_034,"You can always [c_red]use your MAP ({0})[/color] to quickly travel to any Railhouse,| where you can heal."
-sportsetup_Say_035,"Outside of games,| you can also heal your Beasties using certain ITEMs."
-sportsetup_Say_036,Remember you can press {0} to check Beastie stats and details...
-sportsetup_Say_037,"You can even [c_red]spy on your opponents[/color] to see what plays they have,| too!"
-sportsetup_Say_038,Hey!| Wow!!!
-sportsetup_Say_039,That extinct Beastie data came through...|| what a trip!
-sportsetup_Say_040,"It looks like,| if you recruit one of that Beastie's evolutionary descendents..."
-sportsetup_Say_041,"By fulfilling certain conditions,| they could ""unlock"" their ancient genes."
-sportsetup_Say_042,"And they'd [slant][shake, .25]metamorph into a prehistoric form!"
-sportsetup_Say_043,I can't believe that's really possible.
-sportsetup_Say_044,"Beasties sure are something,| huh?"
-sportsetup_Say_045,This is gonna make waves in the research community...
-sportsetup_Say_046,Hey!!!|| Smooth moves out there!
-sportsetup_Say_047,I saw you got every opponent's recruit condition in one game...|| magnificent stuff.
-sportsetup_Say_048,I'm thinkin' you're just the sort of coach we need on our team.
-sportsetup_Say_049,You're now sponsored by Staying Power Fitness.
-sportsetup_Say_050,You can earn big money by fulfilling opponent's Recruit Conditions.
-sportsetup_Say_051,"And when you fulfill EVERY Recruit Condition,| you'll earn a [c_red]3x payout multiplier."
-sportsetup_Say_052,"Keep playing stylishly like that,| and you'll go far as a coach."
-sportsetup_Say_053,Show the world your Staying Power!
+sportsetup_Say_001,공을 가진 팀은| 액션을 3번 쓸 수 있어요.
+sportsetup_Say_002,"[scaleStack,1.2]액션 3번은 되도록 매번 전부 쓰는 게 좋아요."
+sportsetup_Say_003,"공을 [slant]안[/slant] 가진 비스티도 [sprIcon,4]서포트 액션을 쓸 수 있어요!"
+sportsetup_Say_004,"기분({0} 같은)은 일시적인 상태 효과예요.|| 좋을 수도, 나쁠 수도 있어요!"
+sportsetup_Say_005,"매 턴 숫자가 줄어들고,| 0이 되면 사라져요."
+sportsetup_Say_006,"부스트([sprBoost,2][sprBoost,5])는 일시적인 능력치 변화예요."
+sportsetup_Say_007,"[sprBoost,0][sprBoost,3]부스트는 하나만 있어도 차이가 커요.| 하지만 비스티가 태그 아웃하거나 포인트가 끝나면 사라져요."
+sportsetup_Say_008,트랩은 필드 효과예요.|| 트랩 하나마다 태그 인하는 비스티의 스태미나를 {0}씩 깎아요.
+sportsetup_Say_009,최대 {0}번까지 쌓을 수 있어서| 스태미나가 꽤 많이 깎여요.|| 조심하세요!
+sportsetup_Say_010,랠리는 야생 비스티들을 불러 모아 경기를 응원하게 하는 필드 효과예요!
+sportsetup_Say_011,"[sprIcon,1]영혼 공격의 대미지가 +{2} 늘어나요!|| 대신 집중하기 어려워져서 [sprIcon,2]정신 공격은 {1} 대미지가 돼요."
+sportsetup_Say_012,"관중은 라운드마다 조금씩 흩어지지만,| 비스티들이 계속 랠리를 하면 늘어날 수도 있어요."
+sportsetup_Say_013,"리듬은 {1}턴 동안 이어지는 필드 효과로, 영향받는 비스티의 스태미나를 매 턴 {0} 회복시켜요!"
+sportsetup_Say_014,"몇몇 나쁜 기분도 막아 줘요: {0},| {1}, {2}, {3}."
+sportsetup_Say_015,드레드는 매 턴 비스티들의 스태미나를 {0}씩 깎는 필드 효과예요.
+sportsetup_Say_016,"{0}, {1}, {2} 같은 좋은 기분도 못 느끼게 막아요."
+sportsetup_Say_017,빌드를 쓰면 사용자 앞에 배리어가 생겨요!
+sportsetup_Say_018,"배리어는 어떤 공격에도 부서지지만,| 그 공격의 대미지를 0으로 만들어요."
+sportsetup_Say_019,"{0} 상태인 비스티는 완전히 뻗은 상태예요.|| 맞는 공은 다 떨어뜨리고,| 프리 볼밖에 못 써요."
+sportsetup_Say_020,회복시키기 전까지는| 위험해요!
+sportsetup_Say_021,비스티를 더 영입하면| 태그 아웃해서 벤치에서 회복할 수 있어요!
+sportsetup_Say_022,태그 아웃해서 벤치에서 기다려야만 회복할 수 있어요.
+sportsetup_Say_023,비스티가 {0} 상태가 되면| 위험해요!
+sportsetup_Say_024,비스티를 더 영입하면| 태그 아웃해서 벤치에서 회복할 수 있어요!
+sportsetup_Say_025,태그 아웃해서 벤치에서 기다려야만 회복할 수 있어요.
+sportsetup_Say_026,{0} 상태인 비스티가 벤치에서 충분히 쉬면| 상태가 풀리고 스태미나를 회복해요!
+sportsetup_Say_027,"하지만| {0} 상태가 돼서,| 경기장에 있는 동안 스태미나가 줄어들어요."
+sportsetup_Say_028,비스티가 공을 받지 않았는데 {0} 상태가 되면| 탈진해요.
+sportsetup_Say_029,경기할 의욕이 바닥나서| {0} 상태가 더 오래가요...
+sportsetup_Say_030,보통은 공을 다시 치기 전에 발리를 해야 해요.
+sportsetup_Say_031,"하지만 [scaleStack,1.25]이지 리시브[scaleStack,.8]는| 발리할 필요가 없는 약한 공이에요."
+sportsetup_Say_032,"그러면 액션이 남아서, 공격하기 전에 동료가 [sprIcon,4]서포트 플레이를 쓸 수 있어요!"
+sportsetup_Say_033,파티의 스태미나가 부족하면| 앞으로 나아가기 힘들 수 있어요.
+sportsetup_Say_034,언제든 [c_red]지도({0})[/color]를 열어서 레일하우스로 빠르게 이동하면| 회복할 수 있어요.
+sportsetup_Say_035,경기 밖에서는| 특정 아이템으로 비스티를 회복시킬 수도 있어요.
+sportsetup_Say_036,{0}을(를) 누르면 비스티의 능력치와 상세 정보를 확인할 수 있다는 거 잊지 마세요...
+sportsetup_Say_037,[c_red]상대를 염탐해서[/color] 어떤 플레이를 갖고 있는지도| 볼 수 있어요!
+sportsetup_Say_038,저기!| 와!!!
+sportsetup_Say_039,그 멸종 비스티 데이터가 들어왔어...|| 진짜 대박이야!
+sportsetup_Say_040,"그러니까,| 그 비스티의 진화상 후손을 영입하면..."
+sportsetup_Say_041,"특정 조건을 채웠을 때| 고대의 유전자를 ""해금""할 수 있대."
+sportsetup_Say_042,"그러면 [slant][shake, .25]선사시대 모습으로 변이한다는 거야!"
+sportsetup_Say_043,그게 진짜 가능하다니 믿기지가 않아.
+sportsetup_Say_044,"비스티들은 정말 대단하지,| 응?"
+sportsetup_Say_045,연구계가 발칵 뒤집히겠는데...
+sportsetup_Say_046,이봐!!!|| 거기서 움직임 끝내주던데!
+sportsetup_Say_047,한 경기에서 상대 영입 조건을 전부 달성하는 걸 봤어...|| 정말 훌륭했어.
+sportsetup_Say_048,딱 우리 팀에 필요한 코치라는 생각이 드는군.
+sportsetup_Say_049,이제부터 Staying Power 피트니스가 당신을 후원합니다.
+sportsetup_Say_050,상대의 영입 조건을 달성하면 큰돈을 벌 수 있어.
+sportsetup_Say_051,"그리고 영입 조건을 전부 달성하면,| [c_red]보상이 3배가 돼."
+sportsetup_Say_052,"지금처럼 멋지게 경기하면,| 코치로서 크게 성공할 거야."
+sportsetup_Say_053,세상에 당신의 Staying Power를 보여 줘!
 Gameplay_Draw64_001,Will use: {0}
 Gameplay_Draw64_002,ACTIONS
 Gameplay_Draw64scribble_001," [sprClock,0]{0}  "
@@ -4006,74 +4006,74 @@ sportend_Say_034,...|but your Jerseys aren't strong enough to recruit them.
 jerseypatchcheck_Ask_001,{0}을(를) 붙여서 능력치 성장을 올릴까요?
 jerseypatchcheck_001,>{0} 1개 사용 ({1}개 보유)
 jerseypatchcheck_ItemDrop_001,{0}을(를) 붙였어요.
-Tutorial_Other10Say_001,...the heck was [shake]THAT?![/shake]
-Tutorial_Create0_001,"[sprIcon,0][d#{0}]BODY[c_ltgray]-focused. Likes to hit the ball."
-Tutorial_Create0_002,"[sprIcon,1][d#{0}]SPIRIT[c_ltgray]-focused. Likes to power up."
-Tutorial_Create0_003,"[sprIcon,2][d#{0}]MIND[c_ltgray]-focused. Likes volleying (passing)."
-Tutorial_Create0_004,"[scaleStack,.66]Music by"
+Tutorial_Other10Say_001,...방금 [shake]그거 뭐야?![/shake]
+Tutorial_Create0_001,"[sprIcon,0][d#{0}]신체[c_ltgray] 중심. 공 치는 걸 좋아해요."
+Tutorial_Create0_002,"[sprIcon,1][d#{0}]영혼[c_ltgray] 중심. 힘을 모으는 걸 좋아해요."
+Tutorial_Create0_003,"[sprIcon,2][d#{0}]정신[c_ltgray] 중심. 발리(패스)를 좋아해요."
+Tutorial_Create0_004,"[scaleStack,.66]음악"
 Tutorial_Create0_005,Lena Raine
-Tutorial_Create0_006,"[scaleStack,.66]Audio by A SHELL IN THE PIT"
+Tutorial_Create0_006,"[scaleStack,.66]오디오: A SHELL IN THE PIT"
 Tutorial_Create0_007,Em Halberstadt
 Tutorial_Create0_008,Preston Wright
-Tutorial_Create0_009,"[scaleStack,.66]A game by"
+Tutorial_Create0_009,"[scaleStack,.66]게임 제작"
 Tutorial_Create0_010,Greg Lobanov
 Tutorial_Create0_011,Alexis Dean-Jones
-Tutorial_Create0_012,And a whole bunch of friends...
-Tutorial_Create0_013,Switch On
-Tutorial_Create0_014,Switch Off
-Tutorial_Create0Say_001,[wave]Heeey![/wave]|| Don't you know kids aren't supposed to be in the preserve?!
-Tutorial_Create0Say_002,"Well,| I'll keep it a secret if you do!|| Heheh."
-Tutorial_Create0Say_003,Anyway LOOK!| I found a bunch of Beasties here!!!
-Tutorial_Create0Say_004,It's just like on TV.| They want to play a game with us!
-Tutorial_Create0Say_005,"You want to play too,| don't you?"
-Tutorial_Create0Say_006,Which one's on your team?
-Tutorial_Create0Ask_001,Play with this Beastie?
-Tutorial_Create0Ask_002,See details...
-Tutorial_Create0Ask_003,>Yes
-Tutorial_Create0Ask_004,^No
-Tutorial_Create0Say_007,"OKOKOK!|| [shake][scale, 1.3]LET'S GO!!!"
-Tutorial_Create0Say_008,Let's pretend it's the CHAMPIONSHIP MATCH of the CROWN SERIES!
-Tutorial_Create0Ask_005,I'll be the champion COACH MARLIN!|| You can be the challenger coach!
-Tutorial_Create0Ask_006,OK!
-Tutorial_Create0Ask_007,"^No fair, it's 2 Beasties against 1!"
-Tutorial_Create0Say_009,"Well,| I saw them first!"
-Tutorial_Create0Say_010,Pretend it's MATCH POINT and these are the only Beasties left!!
-Tutorial_Create0Say_011,Your {0} is up to SERVE first!
-Tutorial_Create0Say_012,Select {0} and choose an ATTACK!!
-Tutorial_Create0Say_013,Those numbers are estimates of how much DAMAGE your attack will do.
+Tutorial_Create0_012,그리고 수많은 친구들...
+Tutorial_Create0_013,스위치 켜기
+Tutorial_Create0_014,스위치 끄기
+Tutorial_Create0Say_001,[wave]야아아![/wave]|| 애들은 보호구역에 들어오면 안 되는 거 몰라?!
+Tutorial_Create0Say_002,"뭐,| 너도 비밀로 해 주면 나도 비밀로 해 줄게!|| 헤헤."
+Tutorial_Create0Say_003,아무튼 봐 봐!| 여기 비스티가 엄청 많아!!!
+Tutorial_Create0Say_004,TV에서 보던 거랑 똑같아.| 우리랑 게임하고 싶대!
+Tutorial_Create0Say_005,"너도 하고 싶지,| 그치?"
+Tutorial_Create0Say_006,누가 네 팀이야?
+Tutorial_Create0Ask_001,이 비스티랑 할래?
+Tutorial_Create0Ask_002,자세히 보기...
+Tutorial_Create0Ask_003,>넵
+Tutorial_Create0Ask_004,^놉
+Tutorial_Create0Say_007,"좋아좋아좋아!|| [shake][scale, 1.3]가자!!!"
+Tutorial_Create0Say_008,이게 크라운 시리즈 결승전이라고 치자!
+Tutorial_Create0Ask_005,나는 챔피언 코치 마를린 할게!|| 넌 도전자 코치 해!
+Tutorial_Create0Ask_006,넵!
+Tutorial_Create0Ask_007,"^반칙이야, 2마리 대 1마리잖아!"
+Tutorial_Create0Say_009,"뭐,| 내가 먼저 찾았잖아!"
+Tutorial_Create0Say_010,지금 매치 포인트고 남은 비스티는 얘네뿐이라고 치자!!
+Tutorial_Create0Say_011,네 {0}이(가) 먼저 서브해!
+Tutorial_Create0Say_012,{0}을(를) 고르고 공격을 선택해!!
+Tutorial_Create0Say_013,그 숫자는 네 공격이 줄 대미지 예상치야.
 Tutorial_Create0Say_014,
-Tutorial_Create0Say_015,[c_red][ftUI][wave]WAHAHA![/wave]|| That attack is nothing to a champ like me!
-Tutorial_Create0Say_016,"[scaleStack,.8](If a Beastie hits 0 STAMINA,| they'll drop the ball and lose the point!)"
-Tutorial_Create0Say_017,"But you better get ready,| cuz now it's OUR turn to attack!"
-Tutorial_Create0Say_018,Your only hope for survival is a wise DEFENSE action!
-Tutorial_Create0Say_019,[shake]WHAT?[/shake]| It's the CHAMPIONSHIP MATCH and you want to [slant]forfeit?[/slant]
-Tutorial_Create0Say_020,[wave]No way!!![/wave]
-Tutorial_Create0Say_021,Oh|...
-Tutorial_Create0Say_022,"If you let the ball hit an undefended area,| it's an automatic loss."
-Tutorial_Create0Say_023,I guess you do actually need two Beasties to play...
-Tutorial_Create0Say_024,[wave]WHOAA!![/wave]|| Another one?!
-Tutorial_Create0Say_025,"A |NEW BEASTIE shows up at the CROWN SERIES,| turning the tide!!"
-Tutorial_Create0Say_026,"Do over,| do over!"
-Tutorial_Create0Say_027,It's your turn to ATTACK now!
-Tutorial_Create0Say_028,"VOLLEY the ball to get it under control,| then hit it back!"
-Tutorial_Create0Say_029,MARLIN wins the CHAMPIONSHIP yet again!!!!
-Tutorial_Create0Say_030,"...|But it wasn't really fair,| so I'm OK if we call it a tie!|| Heh."
-Tutorial_Create0Say_031,A NEW CHALLENGER wins the CHAMPIONSHIP!|| The crowd goes wild!!!
-Tutorial_Create0Say_032,That's [wave]BEASTIEBALL![/wave]
-Tutorial_Create0Say_033,Beasties all love to play this.| They're basically born for it!
-Tutorial_Create0Say_034,And there they go...| byyyyye!!!
-Tutorial_Create0Say_035,My name's Riley by the way!
-Tutorial_Create0Say_036,I never saw another kid in the preserve...|| You live close by?
-Tutorial_Create0Say_037,Wanna watch videos with me?!
-Tutorial_Create0Say_038,Wait wait!!|| You weren't paying attention!| I'm rewinding!
-Tutorial_Create0Say_039,See!!|| That's how Marlin ACTUALLY won the CROWN SERIES!
-Tutorial_Create0Say_040,"My family watches every year,| but I've never seen a match this epic..."
-Tutorial_Create0Say_041,And did you know Marlin is from Rutile Town just like us?!
-Tutorial_Create0Say_042,It'd be so cool to be a coach like that...
-Tutorial_Create0Say_043,(A bunch of things happened.)
-Tutorial_Create0Say_044,"(Before you know it,| years have passed,| and you're a RANKED COACH exploring the world!)"
-Tutorial_Create0Say_045,"(Before you know it,| years have passed,| and you're a RANKED COACH with the power to jump using {0}.)"
-Tutorial_Create0Say_046,(Find other Ranked coaches and fight your way to the top of the LEAGUE!)
+Tutorial_Create0Say_015,[c_red][ftUI][wave]와하하![/wave]|| 나 같은 챔프한테 그 정도 공격은 아무것도 아니지!
+Tutorial_Create0Say_016,"[scaleStack,.8](비스티의 스태미나가 0이 되면| 공을 떨어뜨리고 포인트를 내줘!)"
+Tutorial_Create0Say_017,"근데 각오해,| 이제 우리가 공격할 차례니까!"
+Tutorial_Create0Say_018,살아남으려면 수비 액션을 잘 고르는 수밖에 없어!
+Tutorial_Create0Say_019,[shake]뭐?[/shake]| 결승전인데 [slant]기권[/slant]하겠다고?
+Tutorial_Create0Say_020,[wave]절대 안 돼!!![/wave]
+Tutorial_Create0Say_021,아|...
+Tutorial_Create0Say_022,아무도 안 막는 곳에 공이 떨어지면| 바로 지는 거야.
+Tutorial_Create0Say_023,경기하려면 진짜 비스티가 두 마리 필요한가 보네...
+Tutorial_Create0Say_024,[wave]우와아!![/wave]|| 또 한 마리?!
+Tutorial_Create0Say_025,"크라운 시리즈에 |새로운 비스티 등장,| 판도가 뒤집힌다!!"
+Tutorial_Create0Say_026,"다시 해,| 다시!"
+Tutorial_Create0Say_027,이제 네가 공격할 차례야!
+Tutorial_Create0Say_028,"발리로 공을 안정시키고,| 다시 쳐서 넘겨!"
+Tutorial_Create0Say_029,마를린이 또다시 우승!!!!
+Tutorial_Create0Say_030,"...|근데 솔직히 공평하진 않았으니까,| 무승부로 해도 괜찮아!|| 헤헤."
+Tutorial_Create0Say_031,새로운 도전자가 우승을 차지합니다!|| 관중들이 열광해요!!!
+Tutorial_Create0Say_032,이게 바로 [wave]비스티볼이야![/wave]
+Tutorial_Create0Say_033,비스티들은 다 이걸 좋아해.| 거의 이거 하려고 태어난 수준이야!
+Tutorial_Create0Say_034,그리고 쟤네 간다...| 안녀어엉!!!
+Tutorial_Create0Say_035,"아 맞다, 난 라일리야!"
+Tutorial_Create0Say_036,보호구역에서 다른 애는 처음 봤어...|| 너 이 근처 살아?
+Tutorial_Create0Say_037,나랑 영상 볼래?!
+Tutorial_Create0Say_038,잠깐 잠깐!!|| 너 안 보고 있었잖아!| 다시 돌린다!
+Tutorial_Create0Say_039,봐!!|| 마를린이 크라운 시리즈에서 진짜로 이렇게 이겼다니까!
+Tutorial_Create0Say_040,"우리 가족은 매년 보는데,| 이렇게 쩌는 경기는 처음 봐..."
+Tutorial_Create0Say_041,그리고 마를린도 우리처럼 루틸 마을 출신인 거 알았어?!
+Tutorial_Create0Say_042,저런 코치가 되면 진짜 멋지겠다...
+Tutorial_Create0Say_043,(이런저런 일이 있었다.)
+Tutorial_Create0Say_044,"(정신을 차려 보니| 몇 년이 흘러,| 당신은 세상을 누비는 랭크 코치가 되어 있었다!)"
+Tutorial_Create0Say_045,"(정신을 차려 보니| 몇 년이 흘러,| 당신은 {0}(으)로 점프할 수 있는 랭크 코치가 되어 있었다.)"
+Tutorial_Create0Say_046,(다른 랭크 코치들을 찾아 싸워서 리그 정상에 오르자!)
 act02rileyinteract_Other11Say_001,리그가 이곳을 그냥 밀어버려도 된다고 생각하다니 믿을 수가 없어!
 act02rileyinteract_Other11Say_002,비스티들이 엄청 무서워하고 있을 거야.
 act02rileyinteract_Other11Say_003,마를린한테 당장 알려야 해!
@@ -5369,20 +5369,20 @@ Riley_Other13Say_008,"{name},| this is serious!"
 Riley_Other13Say_009,"If it's about the League,| you better go find MARLIN!"
 Riley_Other13Say_010,You're the assistant coach.|| He'll listen to you!
 Riley_Other13Say_011,"Back in town,| to the right!| In the Beastieball Center!"
-Bored1_Create0npcname_001,Kenta
+Bored1_Create0npcname_001,켄타
 jasperbored1chat_Other11Say_001,My life is going nowhere in this town.
 jasperbored1chat_Other11Say_002,I climbed up here to get some excitement...
 jasperbored1chat_Other11Say_003,But all it did was give me a better view of this boring place.
 jasperbored1chat_Other11Say_004,Everyone my age is finding their purpose in life and becoming somebody.
 jasperbored1chat_Other11Say_005,But...|| I just don't know what that is for me.
 jasperbored1chat_Other11Say_006,Everything kinda seems like it sucks.
-Bored1_Other11Ask_001,I wish I had something to do.
-Bored1_Other11Ask_002,I know something fun to do...
-Bored1_Other11Ask_003,^Good luck.
-Bored1_Other11Say_001,...[slant]Beastieball?[/slant]|| That's just monsters hitting a ball around.
-Bored1_Other11Say_002,"But,| who knows."
-Bored1_Other11Say_003,Maybe it's what will spark joy in my heart and finally teach me to appreciate life.
-Bored1_Other11Say_004,That would be great.
+Bored1_Other11Ask_001,뭐 할 일이라도 있었으면 좋겠다.
+Bored1_Other11Ask_002,재밌는 거 하나 아는데...
+Bored1_Other11Ask_003,^힘내.
+Bored1_Other11Say_001,...[slant]비스티볼?[/slant]|| 그거 그냥 괴물들이 공 치고 노는 거잖아.
+Bored1_Other11Say_002,"근데,| 또 모르지."
+Bored1_Other11Say_003,그게 내 마음에 불을 지펴서 마침내 삶의 소중함을 알게 해 줄지도.
+Bored1_Other11Say_004,그럼 좋겠네.
 jasperbored1chatpost_Other11Say_001,I wish I could say Beastieball sparked joy in my heart.
 jasperbored1chatpost_Other11Say_002,"But,| I did feel [slant]something,[/slant]  watching them play."
 jasperbored1chatpost_Other11Say_003,You can feel Beasties' passion through every play they make.
@@ -5394,26 +5394,26 @@ kazprebossbored1chat_Other11Say_001,Being at a Beastieball game...
 kazprebossbored1chat_Other11Say_002,It reminds me of school trips when I was a kid.
 kazprebossbored1chat_Other11Say_003,I |[slant]hated[/slant] school trips when I was a kid.
 kazprebossbored1chat_Other11Say_004,What am I doing here?
-Bored2_Create0npcname_001,Eda
+Bored2_Create0npcname_001,에다
 jasperbored2chat_Other11Say_001,Being a Beastieball fan in Jasper is rough.
 jasperbored2chat_Other11Say_002,Our coach Kaz is pretty...||| bad.|||| Even I could do a better job than him.
 jasperbored2chat_Other11Say_003,But what I |[wave]want[/wave] is someone exciting that I can [wave]watch.
 jasperbored2chat_Other11Say_004,"Everywhere else,| coaches are getting stronger and outclassing us day by day."
 jasperbored2chat_Other11Say_005,It's just a matter of time until the League drops us entirely.
-Bored2_Other11Ask_001,I'd love to see a new coach that can inspire us...
-Bored2_Other11Ask_002,I think I know someone.
-Bored2_Other11Ask_003,^Maybe someday!
-Bored2_Other11Say_001,"What,| [slant]YOU?[/slant]|| Are you really that good?"
-Bored2_Other11Say_002,Let's see if you can even get a couple points off me!
-Bored2_Other11Ask_004,Think you can do it this time?
-Bored2_Other11Ask_005,Let's rematch!
-Bored2_Other11Ask_006,^Maybe not.
-Bored2_Other11Say_003,Gimme your best shot.
-Bored2_Other11Say_004,...|Yeah...||| that's what I thought.
-Bored2_Other11Say_005,Maybe you'll get there someday.
-Bored2_Other11Say_006,"Well,| at least you can beat an old casual like me."
-Bored2_Other11Say_007,"Fine,| then...|| I'll go watch your game with Kaz."
-Bored2_Other11Say_008,It better be good!
+Bored2_Other11Ask_001,우리한테 영감을 줄 새 코치가 나타났으면 좋겠어...
+Bored2_Other11Ask_002,한 명 알 것 같은데.
+Bored2_Other11Ask_003,^언젠간 나오겠지!
+Bored2_Other11Say_001,"뭐,| [slant]네가?[/slant]|| 너 진짜 그렇게 잘해?"
+Bored2_Other11Say_002,나한테서 몇 점이라도 따낼 수 있는지 보자!
+Bored2_Other11Ask_004,이번엔 할 수 있을 것 같아?
+Bored2_Other11Ask_005,다시 붙자!
+Bored2_Other11Ask_006,^아마 아닐걸.
+Bored2_Other11Say_003,최선을 다해 봐.
+Bored2_Other11Say_004,...|그래...||| 그럴 줄 알았어.
+Bored2_Other11Say_005,언젠간 해낼 수 있겠지.
+Bored2_Other11Say_006,"뭐,| 나 같은 늙은 동네 선수 정도는 이길 수 있네."
+Bored2_Other11Say_007,"좋아,| 그럼...|| 너랑 카즈 경기 보러 갈게."
+Bored2_Other11Say_008,재밌어야 한다!
 kazprebossbored2chat_Other11Say_001,Been a long while since I seen a crowd this excited to watch {0}.
 kazprebossbored2chat_Other11Say_002,"Uh...|| I mean,| it could be MORE excited."
 kazprebossbored2chat_Other11Say_003,But I'll take what I can get here.
@@ -5421,37 +5421,37 @@ jasperbored2chatpost_Other11Say_001,You really beat Kaz!
 jasperbored2chatpost_Other11Say_002,That proves you're at least...|| almost below-average?
 jasperbored2chatpost_Other11Say_003,"Well,| I hope you keep going."
 jasperbored2chatpost_Other11Say_004,"Maybe you'll light a fire under that kid to up his game,| too."
-Bored3_Create0npcname_001,Caroline
+Bored3_Create0npcname_001,캐롤라인
 jasperbored3chat_Other11Say_001,I'm so freaking sick of this backwards town.
 jasperbored3chat_Other11Say_002,All anyone ever wants to talk about is hiking.
 jasperbored3chat_Other11Say_003,"And if it's not hiking,| it's...|| the freaking [slant]SPORTSBALL.[/slant]||  Beastieball.|| Whatever."
 jasperbored3chat_Other11Say_004,Can't anyone read a book or something?
 jasperbored3chat_Other11Say_005,Jasper is where culture goes to die.
 jasperbored3chat_Other11Say_006,I mean...|| at least it's not Rutile...|| I guess...
-Bored3_Other11Ask_001,I'd be fine if this town fell into a giant sinkhole tomorrow.
-Bored3_Other11Ask_002,I know something fun to do...
-Bored3_Other11Ask_003,^Bye.
-Bored3_Other11Say_001,Go away.
-Bored3_Other11Ask_004,Is it [slant]HIKING???[/slant]
-Bored3_Other11Ask_005,Yes!
-Bored3_Other11Ask_006,^No!!!
-Bored3_Other11Ask_007,Is it the freaking [slant]SPORTSBALL???[/slant]
-Bored3_Other11Ask_008,...Yes?
-Bored3_Other11Ask_009,^N... No?
-Bored3_Other11Ask_010,Oh.|| Really?|| What is it?
-Bored3_Other11Ask_011,A game of SPORT!
-Bored3_Other11Ask_012,A game of CULTURE!
-Bored3_Other11Ask_013,...|What?|| How can a game be culture?||
-Bored3_Other11Ask_014,It teaches you about Beasties!
-Bored3_Other11Ask_015,It bonds Beasties and humans!
-Bored3_Other11Ask_016,It brings people together!
-Bored3_Other11Ask_017,Don't you know games are art?
-Bored3_Other11Say_002,...||This sounds suspiciously like the sportball.
-Bored3_Other11Say_003,But I never considered that it could have cultural value like that.
-Bored3_Other11Say_004,Sounds pretty pretentious.
-Bored3_Other11Say_005,OK...||| I'm interested.
-Bored3_Other11Say_006,Maybe I was wrong to judge so quickly.
-Bored3_Other11Say_007,I'm excited to see a cultural event in this town with absolutely zero sports involved.
+Bored3_Other11Ask_001,내일 이 마을이 거대한 싱크홀에 빠져도 난 괜찮아.
+Bored3_Other11Ask_002,재밌는 거 하나 아는데...
+Bored3_Other11Ask_003,^잘 있어.
+Bored3_Other11Say_001,저리 가.
+Bored3_Other11Ask_004,혹시 [slant]등산이야???[/slant]
+Bored3_Other11Ask_005,넵!
+Bored3_Other11Ask_006,^놉!!!
+Bored3_Other11Ask_007,설마 그 망할 [slant]공놀이야???[/slant]
+Bored3_Other11Ask_008,...넵?
+Bored3_Other11Ask_009,^노... 놉?
+Bored3_Other11Ask_010,어.|| 진짜?|| 그럼 뭔데?
+Bored3_Other11Ask_011,스포츠 게임이야!
+Bored3_Other11Ask_012,문화 게임이야!
+Bored3_Other11Ask_013,...|뭐?|| 게임이 어떻게 문화야?||
+Bored3_Other11Ask_014,비스티에 대해 배울 수 있어!
+Bored3_Other11Ask_015,비스티와 사람을 이어 줘!
+Bored3_Other11Ask_016,사람들을 하나로 모아 줘!
+Bored3_Other11Ask_017,게임도 예술인 거 몰라?
+Bored3_Other11Say_002,...||아무리 들어도 그 공놀이 같은데.
+Bored3_Other11Say_003,근데 그런 문화적 가치가 있을 거라곤 생각 못 해 봤어.
+Bored3_Other11Say_004,좀 허세 같긴 하다.
+Bored3_Other11Say_005,좋아...||| 관심 생겼어.
+Bored3_Other11Say_006,너무 성급하게 판단했나 봐.
+Bored3_Other11Say_007,스포츠는 하나도 안 섞인 문화 행사가 이 마을에서 열린다니 기대된다.
 kazprebossbored3chat_Other11Say_001,This is definitely the Sportsball.
 kazprebossbored3chat_Other11Say_002,You freak.|| You tricked me.
 kazprebossbored3chat_Other11Say_003,But now it's too awkward to leave...|| the line is so short...
@@ -11143,23 +11143,23 @@ Academymarker_Create0npcname_001,?????
 Academymarker_Create0npcname_002,Beastieball Academy
 Academymarker_Create0npcname_003,Beastie Research Society
 Anton_Create0npcname_001,Anton
-npcanton_Other11Say_001,I moved here not long ago...
-npcanton_Other11Say_002,"I wanted to live in a big faraway city,| build an exciting life."
-npcanton_Other11Say_003,Sometimes it's very lonely.|| I miss the comfort of home.
-npcanton_Other11Say_004,"But,| the greatest culture shock for me...?"
-npcanton_Other11Say_005,Probably everybody's obsession with sports...
-npcanton_Other11Say_006,I do like this neighborhood.
-npcanton_Other11Say_007,There are lots of artists.|| Good energy.
-npcanton_Other11Say_008,"And the views are beautiful,| too."
-npcanton_Other11Say_009,"Ah...|| is that why it's called ""Thousand Views?"""
+npcanton_Other11Say_001,여기 이사 온 지 얼마 안 됐어...
+npcanton_Other11Say_002,멀리 떨어진 대도시에서 신나는 삶을 살고 싶었거든.
+npcanton_Other11Say_003,가끔은 정말 외로워.|| 집이 주던 편안함이 그리워.
+npcanton_Other11Say_004,"그런데,| 나한테 제일 큰 문화 충격은...?"
+npcanton_Other11Say_005,아마 다들 스포츠에 집착하는 거겠지...
+npcanton_Other11Say_006,그래도 이 동네는 좋아.
+npcanton_Other11Say_007,예술가가 많거든.|| 분위기가 좋아.
+npcanton_Other11Say_008,경치도 아름답고.
+npcanton_Other11Say_009,"아...|| 그래서 ""Thousand Views""라고 부르는 건가?"
 Athan_Create0npcname_001,Athan
-npcathan_Other11Say_001,I love the new BOOSTER PADS they've installed in Mainframe.
-npcathan_Other11Say_002,They're an epic way to get around fast.|| [shake]VWOOM!!![/shake]
-npcathan_Other11Say_003,"Finally,| someone made walking fast,| efficient and fun."
-npcathan_Other11Say_004,Also I hear they're great for the environment!
-npcathan_Other11Say_005,"Last month,| my bro walked weird into a BOOSTER PAD."
-npcathan_Other11Say_006,It sent him flying and he broke his leg.
-npcathan_Other11Say_007,It was [shake]AWESOME![/shake]
+npcathan_Other11Say_001,메인프레임에 새로 설치된 부스터 패드 진짜 좋아.
+npcathan_Other11Say_002,빨리 이동하기에 완전 끝내줘.|| [shake]부우웅!!![/shake]
+npcathan_Other11Say_003,"드디어 누가 걷는 걸 빠르고,| 효율적이고,| 재밌게 만들었네."
+npcathan_Other11Say_004,게다가 환경에도 엄청 좋대!
+npcathan_Other11Say_005,지난달에| 우리 형이 부스터 패드에 이상하게 발을 디뎠거든.
+npcathan_Other11Say_006,그대로 날아가서 다리가 부러졌어.
+npcathan_Other11Say_007,[shake]개@쩔었어![/shake]
 Autumn_Create0npcname_001,Autumn
 Autumn_Other11Say_001,Huh?|| A jersey?|| For a freckled woman in Beryl?
 Autumn_Other11Say_002,That's...|| weirdly specific...
@@ -11203,21 +11203,21 @@ Ballcenter_Create0npcname_001,Beastieball Center
 Balldispenser_Create0npcname_001,Ball dispenser
 Ballshrooms_Create0npcname_001,Ball shroom...
 Beatrice_Create0npcname_001,Beatrice
-npcbeatrice_Other11Say_001,Better watch out!|| My sister and I have ribbons that give us hair powers!
-npcbeatrice_Other11Say_002,Yeah and we're |NOT afraid to use them!
-npcbeatrice_Other11Say_003,"Also,| also we have [shake]LIGHTNING POWERS[/shake]|| from eating [wave]BEELB GUMMY SNAX!"
-npcbeatrice_Other11Say_004,"Yeah it's just like in the commercials,| we shoot bolts from our fingertips!"
-npcbeatrice_Other11Say_005,[shake]CRACKOWWW!||| BOOOOM!!!!
-npcbeatrice_Other11Say_006,Have you ever played Game Beast Caravan BP?
-npcbeatrice_Other11Say_007,It's like this game with monsters in it and they're kind of like Beasties
-npcbeatrice_Other11Say_008,But they're also kind of not because they have way cooler magical powers!!!
-npcbeatrice_Other11Say_009,"The commercials have the best song ever it goes like [wave]""GAAAAME BEASTS!"""
-npcbeatrice_Other11Say_010,"[wave]""GAAAME BEASTS,|| CARAVAN INTO THE HORIZOOOON!|| CAREEN INTO MY HEAAAART!!!"""
-npcbeatrice_Other11Say_011,One time we saw a princess who was half gemstone!
-npcbeatrice_Other11Say_012,"Yeah yeah,| in a rainbow crystal cave!"
-npcbeatrice_Other11Say_013,We've been all kinds of places and seen all kinds of things.
-npcbeatrice_Other11Say_014,"We can do it all ourselves without Beasties!|| We're Game Beast Masters! [scale,0.4](tm)"
-npcbeatrice_Other11Say_015,"Cooler Than Coaches!!!||| [scale,0.4](tm)"
+npcbeatrice_Other11Say_001,조심해!|| 나랑 우리 언니는 머리카락 초능력이 생기는 리본이 있다고!
+npcbeatrice_Other11Say_002,"맞아, 그리고 쓰는 거 하나도 |안 무서워!"
+npcbeatrice_Other11Say_003,"그리고,| 그리고 우리 [shake]번개 초능력[/shake]도 있어!|| [wave]BEELB GUMMY SNAX 먹어서!"
+npcbeatrice_Other11Say_004,"맞아 광고에서 나오는 거랑 똑같이,| 손끝에서 번개를 쏴!"
+npcbeatrice_Other11Say_005,[shake]콰르릉!!!||| 쾅!!!!
+npcbeatrice_Other11Say_006,Game Beast Caravan BP 해 봤어?
+npcbeatrice_Other11Say_007,괴물들이 나오는 게임인데 걔네가 좀 비스티 같거든
+npcbeatrice_Other11Say_008,근데 또 좀 아닌 게 마법 능력이 훨씬 멋있어!!!
+npcbeatrice_Other11Say_009,"광고 노래가 진짜 최고야 이렇게 가 [wave]""게에에임 비스츠!"""
+npcbeatrice_Other11Say_010,"[wave]""게에에임 비스츠,|| 지평선 너머로 카라반~!|| 내 마음속으로 질주해~!!!"""
+npcbeatrice_Other11Say_011,한번은 반은 보석으로 된 공주님도 봤어!
+npcbeatrice_Other11Say_012,"맞아 맞아,| 무지개 수정 동굴에서!"
+npcbeatrice_Other11Say_013,우린 온갖 곳에 다 가 보고 온갖 걸 다 봤어.
+npcbeatrice_Other11Say_014,"비스티 없이도 우리끼리 다 할 수 있어!|| 우린 게임 비스트 마스터니까! [scale,0.4](tm)"
+npcbeatrice_Other11Say_015,"코치보다 멋짐!!!||| [scale,0.4](tm)"
 Bedrest_Create0npcname_001,Bed
 Bedrest_Other11Say_001,You can't rest here.
 Bedrest_Other11Ask_001,Rest for a bit?
@@ -11260,29 +11260,29 @@ beechat2_Other11Say_006,"Even when I close my eyes,| I see a ball bouncing back 
 beechat2_Other11Say_007,I won't rest until I'm the world's best!
 beechat2_Other11Say_008,"No,| I won't rest even then!"
 Boreal_Create0npcname_001,Boreal
-npcboreal_Other11Say_001,"Wow,| hi!!!||| Your Beasties are really cute!"
-npcboreal_Other11Say_002,"My mom's sick,| so I'm staying with my grandpa in Coquelicot Beach."
-npcboreal_Other11Say_003,Usually I stay with him when there's lots of other kids visiting.
-npcboreal_Other11Say_004,"But there's no other kids around now,| so..."
-npcboreal_Other11Say_005,|||It's been really boring...
-npcboreal_Other11Say_006,I can't wait to grow up and have Beasties of my own.
-npcboreal_Other11Say_007,Then I'll never be bored or alone!
-npcboreal_Other11Say_008,I love watching the Beasties on this beach.
-npcboreal_Other11Say_009,"Your Beasties are pretty cute,| too."
-npcboreal_Other11_001,Which of your Beasties do you think is the cutest?
-npcboreal_Other11_002,All about the same
-npcboreal_Other11Say_010,"Hahaha!|| {0} |IS really,| really cute!!"
-npcboreal_Other11Say_011,I don't think I can pick a favorite though...
-npcboreal_Other11Say_012,They're all too cute...
-npcboreal_Other11Say_013,"Oh,| really?"
-npcboreal_Other11Say_014,Me too...|| I like them all too much...
-npcboreal_Other11Say_015,Grandpa comes with me to the beach sometimes.
-npcboreal_Other11Say_016,"It's really far downhill from the village,| though."
-npcboreal_Other11Say_017,So sometimes his knees can't take it.
-npcboreal_Other11Say_018,He wants me to learn chess so we can play that together.
-npcboreal_Other11Say_019,But chess is so boring.|| I hate taking turns.
-npcboreal_Other11Say_020,I want to learn to become a Beastieball coach instead.
-npcboreal_Other11Say_021,"Wait,| you take turns in Beastieball,| too?"
+npcboreal_Other11Say_001,"우와,| 안녕!!!||| 네 비스티들 진짜 귀엽다!"
+npcboreal_Other11Say_002,"엄마가 아파서,| 코클리코 해변에 있는 할아버지 댁에 와 있어."
+npcboreal_Other11Say_003,보통은 다른 애들이 많이 놀러 올 때 할아버지 댁에 와.
+npcboreal_Other11Say_004,근데 지금은 다른 애들이 하나도 없어서...
+npcboreal_Other11Say_005,|||진짜 심심해...
+npcboreal_Other11Say_006,얼른 커서 내 비스티를 갖고 싶어.
+npcboreal_Other11Say_007,그럼 절대 심심하거나 외롭지 않을 거야!
+npcboreal_Other11Say_008,이 해변에서 비스티들 구경하는 거 좋아해.
+npcboreal_Other11Say_009,네 비스티들도 꽤 귀엽네.
+npcboreal_Other11_001,네 비스티 중에 누가 제일 귀여운 것 같아?
+npcboreal_Other11_002,다 비슷해
+npcboreal_Other11Say_010,"하하하!|| {0} |진짜,| 진짜 귀엽다!!"
+npcboreal_Other11Say_011,근데 난 제일 좋아하는 애는 못 고르겠어...
+npcboreal_Other11Say_012,다 너무 귀여워...
+npcboreal_Other11Say_013,"아,| 그래?"
+npcboreal_Other11Say_014,나도...|| 다 너무 좋아...
+npcboreal_Other11Say_015,할아버지가 가끔 같이 해변에 와.
+npcboreal_Other11Say_016,근데 마을에서 여기까지 내리막길이 엄청 길어.
+npcboreal_Other11Say_017,그래서 가끔 할아버지 무릎이 못 버텨.
+npcboreal_Other11Say_018,할아버지는 같이 두려고 나한테 체스를 배우래.
+npcboreal_Other11Say_019,근데 체스는 너무 지루해.|| 차례 기다리는 거 싫어.
+npcboreal_Other11Say_020,대신 비스티볼 코치가 되는 걸 배우고 싶어.
+npcboreal_Other11Say_021,"잠깐,| 비스티볼도 차례대로 해?"
 BossElevator_Create0npcname_001,Service Elevator
 BossElevator_Other11Ask_001,Take elevator?
 BossElevator_Other11Ask_002,Up to your room
@@ -11306,21 +11306,21 @@ Bossroom_Other14Say_002,I totally missed it was happening.|| Sorry!!!
 Bossroom_Other14Say_003,I'll head over as soon as I can.
 Bossroom_Other14Say_004,You |KNOW I never want to miss my bestie conquering another rank!
 Brodie_Create0npcname_001,Brodie
-npcbrodie_Other11Say_001,"If you ask me,| Begonia's Beastieball team is the coolest in the League by miles."
-npcbrodie_Other11Say_002,Because they're not |JUST a sports team...
-npcbrodie_Other11Say_003,"Coach Celia runs the Beastie Research Society,| too."
-npcbrodie_Other11Say_004,They're deepening our understanding of Beasties both on and off the field!
-npcbrodie_Other11Say_005,You can see Celia's personality come through in their coaching style.
-npcbrodie_Other11Say_006,It's not just a game to them.|| It's a |SCIENCE.
-npcbrodie_Other11Say_007,"They're always experimenting with strange,| complicated strategies."
-npcbrodie_Other11Say_008,It's not always about winning.|| Sometimes it's about seeing what works!
-npcbrodie_Other11Say_009,That's what makes {0} fun to watch.
-npcbrodie_Other11Say_010,Most coaches seem incurious or uninterested in what makes Beasties special.
-npcbrodie_Other11Say_011,But Beastieball's boring if you only care about which team wins.
-npcbrodie_Other11Say_012,I think Celia's experimentation makes their results less consistent...
-npcbrodie_Other11Say_013,And that means they have a harder time in the Rankings than other teams.
-npcbrodie_Other11Say_014,But that just makes me want to support them more.
-npcbrodie_Other11Say_015,I'm there to see the Beasties do cute and amazing things.
+npcbrodie_Other11Say_001,"내 생각엔,| 베고니아 비스티볼 팀이 리그에서 압도적으로 제일 멋있어."
+npcbrodie_Other11Say_002,그냥 스포츠 팀이 |아니거든...
+npcbrodie_Other11Say_003,셀리아 코치는 비스티 연구 학회도 운영해.
+npcbrodie_Other11Say_004,경기장 안팎에서 비스티에 대한 이해를 넓히고 있다고!
+npcbrodie_Other11Say_005,코칭 스타일에서 셀리아의 성격이 그대로 드러나.
+npcbrodie_Other11Say_006,그 팀한텐 그냥 게임이 아니야.|| |과학이지.
+npcbrodie_Other11Say_007,항상 이상하고 복잡한 전략을 실험해.
+npcbrodie_Other11Say_008,꼭 이기는 게 다가 아니야.|| 가끔은 뭐가 통하는지 보는 게 목적이지!
+npcbrodie_Other11Say_009,그래서 {0} 경기가 재밌는 거야.
+npcbrodie_Other11Say_010,"대부분의 코치는 비스티가 뭐가 특별한지 궁금해하지도, 관심도 없어 보여."
+npcbrodie_Other11Say_011,근데 어느 팀이 이기는지만 신경 쓰면 비스티볼은 지루하잖아.
+npcbrodie_Other11Say_012,셀리아가 실험을 하니까 성적이 들쭉날쭉한 것 같긴 해...
+npcbrodie_Other11Say_013,그래서 다른 팀보다 랭킹에서 고전하는 거고.
+npcbrodie_Other11Say_014,근데 그래서 더 응원하고 싶어져.
+npcbrodie_Other11Say_015,난 비스티들이 귀엽고 놀라운 걸 하는 걸 보러 가는 거니까.
 Camp_Other11Ask_001,Rest here and heal?
 Camp_Other11Ask_002,Yeah
 Camp_Other11Ask_003,No
@@ -11393,56 +11393,56 @@ postgamehometownconstruction_Other11Say_010,It's a nice break from the hustle in
 postgamehometownconstruction_Other11Say_011,I can actually hear myself think for once...
 postgamehometownconstruction_Other11Say_012,A guy could really get comfortable here.
 Cynthia_Create0npcname_001,Cynthia
-npccynthia_Other11Say_001,Oh!|| You're a pro Beastieball coach?
-npccynthia_Other11Ask_001,Can I ask...|| do you have any advice for someone starting out new?
-npccynthia_Other11Ask_002,Be nice to your Beasties!
-npccynthia_Other11Ask_003,Push your Beasties to their best!
-npccynthia_Other11Ask_004,Ask a legendary coach to retire and hand over their team!
-npccynthia_Other11Ask_005,^I don't know...
-npccynthia_Other11Say_002,"Haha!|| Well,| that almost goes without saying!"
-npccynthia_Other11Say_003,"Hmm,| hmm!|| I guess that's what it takes to be a pro!"
-npccynthia_Other11Say_004,Ha ha?|| Who would actually do that?
-npccynthia_Other11Say_005,"Oh,| really?|| That's too bad..."
-npccynthia_Other11Say_006,My little sister has been thinking about going pro.
-npccynthia_Other11Say_007,"She's still young,| but I think she's really serious about it."
-npccynthia_Other11Say_008,So I want to pass along all the best advice to her that I can!
-npccynthia_Other11Say_009,I've been taking care of my sister since I was still pretty young.
-npccynthia_Other11Say_010,Maybe I would've thought about going pro in another life...
-npccynthia_Other11Say_011,But I was just too busy to do it.
-npccynthia_Other11Say_012,"If she wants to,| I want to give her every chance to follow her dreams!"
-npccynthia_Other11Say_013,We've had Beasties around all our lives.
-npccynthia_Other11Say_014,And we always watch the Crown Series together every year.
-npccynthia_Other11Say_015,"I guess you could say we're a pretty big Beastie family,| haha."
-npccynthia_Other11Say_016,It's no wonder she started thinking about a career in coaching...
+npccynthia_Other11Say_001,어머!|| 프로 비스티볼 코치세요?
+npccynthia_Other11Ask_001,혹시...|| 이제 막 시작하는 사람한테 해 줄 조언 있어요?
+npccynthia_Other11Ask_002,비스티한테 잘해 줘!
+npccynthia_Other11Ask_003,비스티를 한계까지 몰아붙여!
+npccynthia_Other11Ask_004,전설의 코치한테 은퇴하고 팀을 넘기라고 해!
+npccynthia_Other11Ask_005,^잘 모르겠어...
+npccynthia_Other11Say_002,"하하!|| 뭐,| 그건 말할 필요도 없죠!"
+npccynthia_Other11Say_003,"흠,| 흠!|| 프로가 되려면 그래야 하는군요!"
+npccynthia_Other11Say_004,하하?|| 누가 진짜 그렇게 해요?
+npccynthia_Other11Say_005,"아,| 그래요?|| 아쉽네요..."
+npccynthia_Other11Say_006,제 여동생이 프로가 될까 고민하고 있거든요.
+npccynthia_Other11Say_007,"아직 어리지만,| 꽤 진지한 것 같아요."
+npccynthia_Other11Say_008,그래서 해 줄 수 있는 좋은 조언은 다 전해 주고 싶어요!
+npccynthia_Other11Say_009,저도 꽤 어릴 때부터 동생을 돌봐 왔어요.
+npccynthia_Other11Say_010,다른 인생이었다면 저도 프로가 될 생각을 했을지도 모르죠...
+npccynthia_Other11Say_011,그냥 너무 바빠서 못 했어요.
+npccynthia_Other11Say_012,"동생이 원한다면,| 꿈을 이룰 수 있게 모든 기회를 주고 싶어요!"
+npccynthia_Other11Say_013,저흰 평생 비스티들이랑 같이 살았어요.
+npccynthia_Other11Say_014,그리고 매년 크라운 시리즈를 꼭 같이 봐요.
+npccynthia_Other11Say_015,"꽤 비스티 가족이라고 할 수 있겠네요,| 하하."
+npccynthia_Other11Say_016,동생이 코치를 꿈꾸게 된 것도 당연하죠...
 Diana_Create0npcname_001,Diana
-npcdiana_Other11Say_001,[shake]UGH!!
-npcdiana_Other11Say_002,I went to throw something out and a {0} popped out of the trash can...
-npcdiana_Other11Say_003,Those nasty birds clog practically every bin in Geo City.
-npcdiana_Other11Say_004,Why can't they go live somewhere else?
-npcdiana_Other11Say_005,{0} have this bizarre obsession with trendiness.
-npcdiana_Other11Say_006,"Once one wears a new color,| suddenly they all start copying that."
-npcdiana_Other11Say_007,I swear it's a new style every couple hours with them.
-npcdiana_Other11Say_008,And that keeps them obsessively hunting through all the garbage in the city...
-npcdiana_Other11Say_009,Do they think it's cute or something?
-npcdiana_Other11Say_010,I hate them.
+npcdiana_Other11Say_001,[shake]으윽!!
+npcdiana_Other11Say_002,뭐 좀 버리려는데 쓰레기통에서 {0}이(가) 튀어나왔어...
+npcdiana_Other11Say_003,지오 시티 쓰레기통은 그 지저분한 새들 때문에 거의 다 막혀 있어.
+npcdiana_Other11Say_004,왜 딴 데 가서 못 사는 거야?
+npcdiana_Other11Say_005,{0}은(는) 유행에 이상할 정도로 집착해.
+npcdiana_Other11Say_006,"하나가 새로운 색을 걸치면,| 갑자기 다 따라 해."
+npcdiana_Other11Say_007,진짜 몇 시간마다 스타일이 바뀐다니까.
+npcdiana_Other11Say_008,그래서 도시의 쓰레기를 죄다 집요하게 뒤지고 다니는 거고...
+npcdiana_Other11Say_009,그게 귀엽다고 생각하는 건가?
+npcdiana_Other11Say_010,진짜 싫어.
 Etienne_Create0npcname_001,Etienne
-npcetienne_Other11Say_001,"Oh,| baby!||| My Fantasy Beastieball team is on |FIRE this season!"
-npcetienne_Other11Say_002,And it's [wave]alllllll[/wave]| thanks to your {0}...
-npcetienne_Other11Say_003,I threw 'em on my Fantasy team as a dark horse pick when they were an unknown...
-npcetienne_Other11Say_004,Now they're gonna make me rich!
-npcetienne_Other11Say_005,Huh?|| They're away training right now?
-npcetienne_Other11Say_006,[shake]SHOOT!!![/shake]|| I'm cooked!!!
-npcetienne_Other11Say_007,"Thanks for being such a great coach,| wahahaha!"
-npcetienne_Other11Say_008,Bein' good at Fantasy Beastieball's a real skill!
-npcetienne_Other11Say_009,"I can tell ya,| I sure sucked at it before this season..."
-npcetienne_Other11Say_010,"Sure,| everyone goes for obvious Beasties like Valerie's {0}."
-npcetienne_Other11Say_011,"But to build a deep winning roster,| you need to really understand the field."
-npcetienne_Other11Say_012,How'd I know to pick {0}?|| Blind luck!|| Wahahaha!
-npcetienne_Other11Say_013,This season there was a lotta grassroots hype around Jack and {0}...
+npcetienne_Other11Say_001,"오,| 이거지!||| 내 판타지 비스티볼 팀이 이번 시즌 |불타고 있어!"
+npcetienne_Other11Say_002,그게 [wave]저어어언부[/wave]| 네 {0} 덕분이야...
+npcetienne_Other11Say_003,무명일 때 다크호스로 판타지 팀에 넣어 뒀거든...
+npcetienne_Other11Say_004,이제 걔 덕분에 부자 되겠어!
+npcetienne_Other11Say_005,뭐?|| 지금 훈련하러 가 있다고?
+npcetienne_Other11Say_006,[shake]젠장!!![/shake]|| 나 망했다!!!
+npcetienne_Other11Say_007,"이렇게 멋진 코치가 돼 줘서 고마워,| 와하하하!"
+npcetienne_Other11Say_008,판타지 비스티볼 잘하는 것도 진짜 실력이라고!
+npcetienne_Other11Say_009,"솔직히 말하면,| 이번 시즌 전까진 완전 못했어..."
+npcetienne_Other11Say_010,"물론,| 다들 발레리의 {0} 같은 뻔한 비스티를 골라."
+npcetienne_Other11Say_011,"근데 강한 로스터를 탄탄하게 짜려면,| 판을 제대로 알아야 하지."
+npcetienne_Other11Say_012,{0}을(를) 고를 줄 어떻게 알았냐고?|| 순전히 운!|| 와하하하!
+npcetienne_Other11Say_013,이번 시즌엔 잭이랑 {0} 쪽에 입소문이 엄청 났었는데...
 npcetienne_Other11Say_014,
-npcetienne_Other11Say_015,"But they can't get sponsors,| so they can't play a lot of real games..."
-npcetienne_Other11Say_016,...and can't earn a lot of Fantasy points.
-npcetienne_Other11Say_017,"The team might be good,| but they're useless to me.|| Wahahaha!"
+npcetienne_Other11Say_015,스폰서를 못 구해서| 정식 경기를 많이 못 뛰어...
+npcetienne_Other11Say_016,...그래서 판타지 포인트도 많이 못 벌어.
+npcetienne_Other11Say_017,"팀이 좋을지는 몰라도,| 나한텐 쓸모없지.|| 와하하하!"
 Etienne_Other11Say_001,You seen the kid giving out fliers about a giant mushroom network?
 Etienne_Other11Say_002,I wonder if the next generation's gonna be OK.
 Etienne_Other11Say_003,They get into some weird stuff...
@@ -11473,41 +11473,41 @@ Evolvetrickies_Other10Ask_002,Let it happen
 Evolvetrickies_Other10Ask_003,^Stop!
 Evolvetrickies_Create0npcname_001,???
 Fabio_Create0npcname_001,Fabio
-npcfabio_Other11Say_001,My nonna used to take my whole family to Chartreuse every summer.
-npcfabio_Other11Say_002,I met my first girlfriend on this beach.
-npcfabio_Other11Say_003,All my happiest memories are here...
-npcfabio_Other11Say_004,Coming back here is like a time machine.
-npcfabio_Other11Say_005,It all still feels exactly the way I remember.
-npcfabio_Other11Say_006,"Sometimes I feel like I'm turning back to my younger self when I'm here,| too..."
+npcfabio_Other11Say_001,우리 논나는 여름마다 온 가족을 데리고 샤르트뢰즈에 오셨어.
+npcfabio_Other11Say_002,첫 여자 친구도 이 해변에서 만났지.
+npcfabio_Other11Say_003,제일 행복한 기억은 다 여기 있어...
+npcfabio_Other11Say_004,여기 돌아오면 타임머신을 탄 것 같아.
+npcfabio_Other11Say_005,전부 기억하는 그대로야.
+npcfabio_Other11Say_006,여기 있으면 가끔 어린 시절의 나로 돌아가는 기분도 들고...
 Farzaneh_Create0npcname_001,Farzaneh
-npcfarzaneh_Other11Say_001,"Oh...|| keep an eye on your Beasties,| please..."
-npcfarzaneh_Other11Say_002,Beasties don't get along with me very well.
-npcfarzaneh_Other11Say_003,"Actually,| I find them a bit scary..."
-npcfarzaneh_Other11Say_004,I don't understand why everyones loves Beasties.
-npcfarzaneh_Other11Say_005,"They're so threatening with that sweaty,| sporty aura..."
-npcfarzaneh_Other11Say_006,Some wild Beastie once broke one of my windows.
-npcfarzaneh_Other11Say_007,"Probably from playing sports and being out of control,| as usual."
-npcfarzaneh_Other11Say_008,And that's how I learned I wasn't paying for Beastie insurance.|| So it wasn't covered.
-npcfarzaneh_Other11Say_009,It's great that your Beasties have fun playing sports.
-npcfarzaneh_Other11Say_010,Just please do it somewhere far away from me.
+npcfarzaneh_Other11Say_001,아...|| 비스티 좀 잘 지켜봐 주세요...
+npcfarzaneh_Other11Say_002,비스티들이랑 저는 잘 안 맞아요.
+npcfarzaneh_Other11Say_003,"사실,| 좀 무서워요..."
+npcfarzaneh_Other11Say_004,다들 왜 비스티를 그렇게 좋아하는지 모르겠어요.
+npcfarzaneh_Other11Say_005,땀내 나는 운동부 같은 기운이 너무 위협적이에요...
+npcfarzaneh_Other11Say_006,예전에 야생 비스티가 우리 집 창문을 깬 적이 있어요.
+npcfarzaneh_Other11Say_007,아마 늘 그렇듯 스포츠 하다가 제어를 못 해서겠죠.
+npcfarzaneh_Other11Say_008,그때 제가 비스티 보험을 안 들었다는 걸 알았어요.|| 그래서 보상도 못 받았죠.
+npcfarzaneh_Other11Say_009,비스티들이 스포츠를 즐기는 건 좋은 일이에요.
+npcfarzaneh_Other11Say_010,그냥 제발 저랑 멀리 떨어진 데서 해 주세요.
 Gaia_Create0npcname_001,Gaia
-npcgaia_Other11Say_001,I'm so lucky to have a grandson that takes me to the beach.
-npcgaia_Other11Say_002,"Now if only he could clean up his act,| meet a proper woman,"
-npcgaia_Other11Say_003,and pop out a bambino or two of his own.
-npcgaia_Other11Say_004,THEN| he'd be perfect!|| Eh eh eh eh!
-npcgaia_Other11Say_005,Fabio's always been such a troubled youth.
-npcgaia_Other11Say_006,"I spoiled him with too much sea,| sun and pasta."
-npcgaia_Other11Say_007,At least he's handsome.
+npcgaia_Other11Say_001,해변에 데려와 주는 손자가 있다니 난 참 복도 많지.
+npcgaia_Other11Say_002,"이제 정신 좀 차려서,| 참한 아가씨 만나서,"
+npcgaia_Other11Say_003,밤비노 한두 명만 낳아 주면.
+npcgaia_Other11Say_004,그럼| 완벽할 텐데!|| 에헤헤헤!
+npcgaia_Other11Say_005,파비오는 늘 말썽꾸러기였어.
+npcgaia_Other11Say_006,바다랑 햇볕이랑 파스타로 너무 오냐오냐 키웠지.
+npcgaia_Other11Say_007,그래도 잘생기긴 했어.
 Genesa_Create0npcname_001,Genesa
-npcgenesa_Other11Say_001,Life is perfect on Chartreuse.
-npcgenesa_Other11Say_002,I soak on the beach all afternoon...
-npcgenesa_Other11Say_003,Dance in the clubs all night...
-npcgenesa_Other11Say_004,Then sleep all day.
-npcgenesa_Other11Say_005,I wish I could never go back to real life.
-npcgenesa_Other11Say_006,Maybe I love Chartreuse so much because it's a break from reality.
-npcgenesa_Other11Say_007,If I really lived like this every day I could go insane.
-npcgenesa_Other11Say_008,"I dunno though,| maybe I'd just be happy partying forever."
-npcgenesa_Other11Say_009,There's that famous coach here...|| he gives me that vibe.
+npcgenesa_Other11Say_001,샤르트뢰즈에서의 삶은 완벽해.
+npcgenesa_Other11Say_002,오후 내내 해변에서 늘어져 있다가...
+npcgenesa_Other11Say_003,밤새 클럽에서 춤추고...
+npcgenesa_Other11Say_004,그리고 하루 종일 자.
+npcgenesa_Other11Say_005,현실로 영영 안 돌아갔으면 좋겠다.
+npcgenesa_Other11Say_006,샤르트뢰즈가 이렇게 좋은 건 현실에서 벗어나는 곳이라 그런가 봐.
+npcgenesa_Other11Say_007,진짜 매일 이렇게 살면 미쳐 버릴지도 몰라.
+npcgenesa_Other11Say_008,"근데 모르겠다,| 영원히 파티하면서 행복할 수도 있고."
+npcgenesa_Other11Say_009,여기 그 유명한 코치 있잖아...|| 그 사람한테서 그런 분위기가 나.
 Gfxtee_Create0npcname_001,William
 jasperwilliamchat_Other11Say_001,"Oh,| I love Beastieball!|| I always follow the Crown Series."
 jasperwilliamchat_Other11Say_002,I play the videogames too!
@@ -11583,21 +11583,21 @@ hsmatechat_Other11Say_006,Sometimes I wish the kid would just calm down.
 hsmatechat_Other11Say_007,"Hey,| you can't call me a kid!| You're only like...|| one year older than me!"
 hsmatechat_Other11Say_008,Feels like 20.
 Halimatou_Create0npcname_001,Halimatou
-npclucille_Other11Say_001,[wave]Come oooon.[/wave]|| You can do it!
-npclucille_Other11Say_002,We've only got one night left here...
-npclucille_Other11Say_003,We were saving the Mermaid Club for last.|| We can't miss that...
-npclucille_Other11Say_004,"Was an entire week straight of sun,| fun,| and dancing an ambitious plan?|| Yes."
-npclucille_Other11Say_005,Am I going to let my frail human body stop me from finishing it?|| No!
-npclucille_Other11Say_006,We saved up for this trip a long time.
-npclucille_Other11Say_007,We're |GOING to that club even if it kills us.
-npclucille_Other11Say_008,"Okay,| we haven't acknowledged the other major roadblock."
-npclucille_Other11Say_009,Which is:|| we don't have VIP invites.
-npclucille_Other11Say_010,So we cannot simply enter the Mermaid Club.
-npclucille_Other11Say_011,But I've seen the people who go in there.|| They look basic as.
-npclucille_Other11Say_012,"If they somehow got invites,| we can too.|| Somehow."
-npclucilleboss_Other11Say_001,"[wave]AHHHH![/wave]|| Sunsoo!!!|| [shake]LIVE,|| IN PERSON!!!"
-npclucilleboss_Other11Say_002,I've only ever seen him on TV...
-npclucilleboss_Other11Say_003,I want to see the sweat shine on his perfect little face!
+npclucille_Other11Say_001,[wave]제발 좀.[/wave]|| 할 수 있어!
+npclucille_Other11Say_002,여기 있을 밤이 하룻밤밖에 안 남았어...
+npclucille_Other11Say_003,머메이드 클럽은 마지막을 위해 아껴 둔 거란 말이야.|| 거길 놓칠 순 없어...
+npclucille_Other11Say_004,"꼬박 일주일 동안 햇볕,| 재미,| 춤으로 채우는 건 무리한 계획이었냐고?|| 응."
+npclucille_Other11Say_005,이 연약한 인간의 몸 때문에 끝까지 못 갈 거냐고?|| 아니!
+npclucille_Other11Say_006,이 여행 가려고 오랫동안 돈 모았어.
+npclucille_Other11Say_007,죽는 한이 있어도 그 클럽엔 |꼭 갈 거야.
+npclucille_Other11Say_008,"좋아,| 또 하나 큰 걸림돌을 아직 말 안 했네."
+npclucille_Other11Say_009,그게 뭐냐면:|| 우리한텐 VIP 초대장이 없어.
+npclucille_Other11Say_010,그래서 머메이드 클럽에 그냥 들어갈 수가 없어.
+npclucille_Other11Say_011,근데 거기 들어가는 사람들 봤거든.|| 완전 평범해 보이던데.
+npclucille_Other11Say_012,"걔네도 어떻게든 초대장을 받았으면,| 우리도 받을 수 있어.|| 어떻게든."
+npclucilleboss_Other11Say_001,"[wave]꺄아아아![/wave]|| Sunsoo!!!|| [shake]실물,|| 직접 보다니!!!"
+npclucilleboss_Other11Say_002,TV에서만 봤는데...
+npclucilleboss_Other11Say_003,그 완벽하고 조그만 얼굴에 땀이 반짝이는 걸 보고 싶어!
 Hatguy_Create0npcname_001,Renan
 jasperhatguychat_Other11Say_001,HELLO!|| Did you come to marvel at my new HAT?
 jasperhatguychat_Other11Say_002,Every clothing store has its own styles.|| I came all the way from Geo City for this hat!
@@ -11627,12 +11627,12 @@ Hatlady_Other11Ask_002,^Nevermind
 Hatlady_Other11Say_001,Ohh...|| uh...
 Hatlady_Other11Say_002,I've seen Kaz play a few times before...|| I think I'm good.
 Hena_Create0npcname_001,Hena
-npchena_Other11Say_001,I really wanted to go to the Rock Creek Adventure park today!
-npchena_Other11Say_002,But ahhhhh|-PARRENTLY it's |CLOSED?!
-npchena_Other11Say_003,I don't care how dangerous it is!|| I can handle it!
-npchena_Other11Say_004,My parents said we should just walk through the other parts of Domain Park.
-npchena_Other11Say_005,I don't wanna do that.|| It's |[shake]BORING!!!!
-npchena_Other11Say_006,Who wants to go just to see boring old trees and grass and flowers?
+npchena_Other11Say_001,오늘 진짜 록 크릭 어드벤처 파크 가고 싶었는데!
+npchena_Other11Say_002,근데 아아아|-니 글쎄 |문을 닫았대?!
+npchena_Other11Say_003,얼마나 위험하든 상관없어!|| 나 할 수 있다고!
+npchena_Other11Say_004,엄마 아빠는 그냥 도메인 공원 다른 데나 걷자고 했어.
+npchena_Other11Say_005,그거 싫어.|| |[shake]지루하단 말이야!!!!
+npchena_Other11Say_006,누가 지루하고 오래된 나무랑 풀이랑 꽃 보러 가고 싶어?
 HiddenObject_Other10npcname_001,Check here?
 HiddenObject_Create0npcname_001,???
 HiddenObject_Other11Say_001,Nothing here...
@@ -11739,22 +11739,22 @@ Indie_Other11Say_047,I hope it's useful to you!
 Indie_Other11Say_048,Okay!|| I've uninstalled my Raremorph tracker from your Beastiepedia.
 Indie_Other11Say_049,"If you change your mind,| let me know!"
 Isabelle_Create0npcname_001,Isabelle
-npcisabelle_Other11Say_001,"If you've sailed the Chroma Sea,| then you must have seen the barrier reef that surrounds us."
-npcisabelle_Other11Say_002,It's beautiful...|| no?
-npcisabelle_Other11Say_003,"The Chroma Reef is like an undersea megacity,| more lush and diverse than any ecosystem we know."
-npcisabelle_Other11Say_004,"Living over it,| it's like I can hear the voice of the Earth herself singing up to me..."
-npcisabelle_Other11Say_005,All us little people on our little land owe it all to the Chroma Reef.
-npcisabelle_Other11Say_006,It absorbs the chaos of the open sea and protects us from waves and storms.
-npcisabelle_Other11Say_007,This island wouldn't be here without it...
+npcisabelle_Other11Say_001,"크로마 바다를 항해해 봤다면,| 우리를 둘러싼 산호초도 봤겠네요."
+npcisabelle_Other11Say_002,아름답지 않나요...||?
+npcisabelle_Other11Say_003,크로마 산호초는 바닷속 거대 도시 같아요. 우리가 아는 어떤 생태계보다 풍요롭고 다양하죠.
+npcisabelle_Other11Say_004,"그 위에 살다 보면,| 대지가 직접 저에게 노래를 불러 주는 것만 같아요..."
+npcisabelle_Other11Say_005,작은 땅에 사는 작은 우리 모두는 크로마 산호초에 모든 걸 빚지고 있어요.
+npcisabelle_Other11Say_006,산호초가 먼바다의 혼돈을 흡수해서 파도와 폭풍으로부터 우리를 지켜 주거든요.
+npcisabelle_Other11Say_007,산호초가 없었다면 이 섬도 없었을 거예요...
 Izuchukwu_Create0npcname_001,Izuchukwu
-npcizuchukwu_Other11Say_001,"I 'member when I first moved to Geo City,| the Beasties straight freaked me out..."
-npcizuchukwu_Other11Say_002,"They're in your face,| all the dang time,| everywhere you go."
-npcizuchukwu_Other11Say_003,But then you stop thinkin' about 'em after a while.
-npcizuchukwu_Other11Say_004,I've seen people on their phones walk straight into active matches.
-npcizuchukwu_Other11Say_005,And yeah...|| that ain't great.
-npcizuchukwu_Other11Say_006,You ever been hit by a fly Beastieball?
-npcizuchukwu_Other11Say_007,"I haven't,| but it looks like it hurts..."
-npcizuchukwu_Other11Say_008,Those critters are strong.
+npcizuchukwu_Other11Say_001,지오 시티에 처음 이사 왔을 때 비스티들 때문에 완전 기겁했던 게 기억나...
+npcizuchukwu_Other11Say_002,"어딜 가든,| 항상,| 눈앞에 들이닥친다니까."
+npcizuchukwu_Other11Say_003,근데 좀 지나면 신경도 안 쓰게 돼.
+npcizuchukwu_Other11Say_004,폰 보면서 걷다가 경기 중인 데로 그대로 들어가는 사람도 봤어.
+npcizuchukwu_Other11Say_005,그리고 그래...|| 그건 좀 아니지.
+npcizuchukwu_Other11Say_006,날아오는 비스티볼에 맞아 본 적 있어?
+npcizuchukwu_Other11Say_007,"난 없는데,| 아파 보이더라..."
+npcizuchukwu_Other11Say_008,그 녀석들 힘이 장난 아니야.
 Javier_Create0npcname_001,Javier
 beryljavier_Other11Say_001,Beryl's got 2 big things going for it.
 beryljavier_Other11Say_002,"A fantastic Beastieball team,|| and our port."
@@ -11806,39 +11806,39 @@ Jay_Other11Say_020,You can edit a Beastie's current plays anytime from your paus
 Jay_Other11Say_021,"If you build your friendship with coaches,| they might teach your Beasties certain plays too."
 Jay_Other11Say_022,"I'm happy letting my Beasties learn from each other,| though!"
 Jesse_Create0npcname_001,Jesse
-npcjesse_Other11Say_001,People are always telling me I look like a mean tough guy.
-npcjesse_Other11Say_002,But I'm not that tough!|| Honest!
-npcjesse_Other11Say_003,"I'd say I'm pretty sensitive,| actually!"
-npcjesse_Other11Say_004,Anybody says anything mean to me?|| You |[wave]KNOW[/wave] I'm gonna be up late pondering |[wave]THAT.
-npcjesse_Other11Say_005,I get that people are reacting to the beard and everything.
-npcjesse_Other11Say_006,"But can't a guy have a big awesome beard and a fragile,| pathetic heart?"
-npcjesse_Other11Say_007,That's all I'm asking here.
-npcjesse_Other11Say_008,The way people talk to you changes a lot depending on what you put out there!
-npcjesse_Other11Say_009,"What you wear,| where you go,| how you talk..."
-npcjesse_Other11Say_010,"You're choosing how the world sees you,| and what parts of the world you see."
-npcjesse_Other11Say_011,Whether you mean to or not!
-npcjesse_Other11Say_012,"I mean,| walking around with those Beasties trailing around you..."
-npcjesse_Other11Say_013,"I bet you get into a lot of conversations about Beasties,| don'cha?"
+npcjesse_Other11Say_001,사람들이 맨날 나보고 험상궂은 터프가이 같대.
+npcjesse_Other11Say_002,근데 나 그렇게 안 터프해!|| 진짜로!
+npcjesse_Other11Say_003,오히려 꽤 섬세한 편이라고!
+npcjesse_Other11Say_004,누가 나한테 못된 말이라도 하면?|| |[wave]그거[/wave] 곱씹느라 밤새 잠 못 잘 거 |[wave]뻔하지.
+npcjesse_Other11Say_005,수염 같은 거 보고 그러는 건 알아.
+npcjesse_Other11Say_006,근데 크고 멋진 수염에 여리고 한심한 마음 좀 가지면 안 돼?
+npcjesse_Other11Say_007,내가 바라는 건 그거 하나야.
+npcjesse_Other11Say_008,내가 뭘 내보이느냐에 따라 사람들이 말하는 방식이 확 달라져!
+npcjesse_Other11Say_009,"뭘 입는지,| 어딜 가는지,| 어떻게 말하는지..."
+npcjesse_Other11Say_010,"세상이 너를 어떻게 볼지,| 네가 세상의 어떤 면을 볼지 스스로 고르는 거야."
+npcjesse_Other11Say_011,의도했든 안 했든!
+npcjesse_Other11Say_012,"그러니까,| 그렇게 비스티들을 줄줄이 데리고 다니면..."
+npcjesse_Other11Say_013,"비스티 얘기 엄청 많이 하게 되지,| 그치?"
 Jini_Create0npcname_001,Jini
-npcjini_Other11Say_001,Uh oh...|| I don't know what to do...
-npcjini_Other11Say_002,I was just on my way to school...
-npcjini_Other11Say_003,...and a {0} literally ate my homework.
-npcjini_Other11Say_004,Nobody's going to believe me...
-npcjini_Other11Say_005,I'm gonna be in so much trouble.
-npcjini_Other11Say_006,I'm so frustrated about that stupid {0}...
-npcjini_Other11Say_007,I can't even remember how to get out of this stupid Booster maze.
-npcjini_Other11Say_008,Why did the city need these...|| I'm going to be late!|| [shake]UGHH!!!
-npcjini_Other11Say_009,"[scale,0.7]Stupid boosters...|| Stupid {0}..."
+npcjini_Other11Say_001,어떡해...|| 어떻게 해야 할지 모르겠어...
+npcjini_Other11Say_002,학교 가는 길이었는데...
+npcjini_Other11Say_003,...{0}이(가) 진짜로 내 숙제를 먹어 버렸어.
+npcjini_Other11Say_004,아무도 안 믿어 줄 거야...
+npcjini_Other11Say_005,나 완전 혼나겠다.
+npcjini_Other11Say_006,그 멍청한 {0} 때문에 너무 짜증 나...
+npcjini_Other11Say_007,이 멍청한 부스터 미로에서 나가는 길도 기억이 안 나.
+npcjini_Other11Say_008,도시에 이런 게 왜 필요한 거야...|| 지각하겠다!|| [shake]으아악!!!
+npcjini_Other11Say_009,"[scale,0.7]멍청한 부스터...|| 멍청한 {0}..."
 Jiyun_Create0npcname_001,Ji-Yun
-npcjiyun_Other11Say_001,"Geo City's full of Beasties,| except for some quiet corners like here."
-npcjiyun_Other11Say_002,"Oh,| but...|| have you heard of the Beastie called Korwin?"
-npcjiyun_Other11Say_003,They're a {0} that's become kind of a local legend...
-npcjiyun_Other11Say_004,Korwin's a strong wandering Beastie who refuses to be coached.
-npcjiyun_Other11Say_005,"They're so headstrong,| they have a team of wild Beasties that follows them around..."
-npcjiyun_Other11Say_006,"So they're like...|| a Beastie that coaches other Beasties,| I guess?"
-npcjiyun_Other11Say_007,"Sounds pretty cool,| to me..."
-npcjiyun_Other11Say_008,"I've only heard about Korwin,| never seen them."
-npcjiyun_Other11Say_009,If they're real...| maybe they're not in downtown Geo City anymore.
+npcjiyun_Other11Say_001,"지오 시티는 비스티 천지야,| 여기 같은 조용한 구석 몇 군데만 빼고."
+npcjiyun_Other11Say_002,"아,| 그런데...|| 코윈이라는 비스티 들어 봤어?"
+npcjiyun_Other11Say_003,이 동네에선 거의 전설이 된 {0}이래...
+npcjiyun_Other11Say_004,코윈은 코치를 거부하고 떠돌아다니는 강한 비스티야.
+npcjiyun_Other11Say_005,"고집이 얼마나 센지,| 야생 비스티들이 팀처럼 졸졸 따라다닌대..."
+npcjiyun_Other11Say_006,그러니까...|| 다른 비스티를 코치하는 비스티인 셈인가?
+npcjiyun_Other11Say_007,난 꽤 멋있는 것 같아...
+npcjiyun_Other11Say_008,"코윈 얘기만 들었지,| 직접 본 적은 없어."
+npcjiyun_Other11Say_009,진짜 있다면...| 이제 지오 시티 시내엔 없을지도 몰라.
 Joel_Create0npcname_001,Joel
 Joel_Other11Say_001,The training here is so intense...
 Joel_Other11Say_002,I'll enjoy a break playing against you instead!
@@ -11848,20 +11848,20 @@ academyjoelpost_Other11Say_002,"But I learned a lot that I can try next time,| s
 joelpreboss_Other11Say_001,Callisto loves to use SIDEWAYs attacks.
 joelpreboss_Other11Say_002,She'll test your positioning tactics like no one else.
 Kaan_Create0npcname_001,Kaan
-npckaan_Other11Say_001,"Growin' up,| this was the cheap hood for folks who couldn't afford Geo City."
-npckaan_Other11Say_002,"We got a reputation for the coolest music,| the coolest art."
-npckaan_Other11Say_003,The punk stuff!|| You know?|| REAL| stuff.
-npckaan_Other11Say_004,"Stuff's changin' here,| though."
-npckaan_Other11Say_005,We got too cool and everyone wants in again.
-npckaan_Other11Say_006,Nowadays we've got a Zip Station just like downtown.
-npckaan_Other11Say_007,And the vibe changed a lot with fast transit.
-npckaan_Other11Say_008,"You can still see the old train line running down Wayback Rail Trail,| though..."
-npckaan_Other11Say_009,I miss the clatter-clatter of that old train.
-npckaanseries_Other11Say_001,A continent-sized mushroom network...
-npckaanseries_Other11Say_002,[wave]Thaaaaaat[/wave]||...|| can't be real...| can it?!
-npckaanseries_Other11Say_003,Is the whole planet just a giant mushroom or something?
-npckaanseries_Other11Say_004,It'd be simpler if Beasties just play sports because it's fun.
-npckaanseries_Other11Say_005,"I mean,| when I play Basketjam,| I promise you it's not for any mushrooms."
+npckaan_Other11Say_001,"내가 어릴 땐,| 여기가 지오 시티에 살 형편 안 되는 사람들이 사는 싼 동네였어."
+npckaan_Other11Say_002,"제일 멋진 음악,| 제일 멋진 예술로 유명했지."
+npckaan_Other11Say_003,펑크 같은 거!|| 알지?|| |진짜배기.
+npckaan_Other11Say_004,근데 요즘은 여기도 변하고 있어.
+npckaan_Other11Say_005,너무 힙해지니까 다들 다시 들어오고 싶어 하거든.
+npckaan_Other11Say_006,요즘은 시내처럼 집 스테이션도 생겼어.
+npckaan_Other11Say_007,교통이 빨라지면서 분위기도 많이 바뀌었고.
+npckaan_Other11Say_008,그래도 웨이백 레일 트레일을 따라가면 옛날 철길이 아직 보여...
+npckaan_Other11Say_009,그 옛날 기차 덜컹덜컹 소리가 그리워.
+npckaanseries_Other11Say_001,대륙만 한 버섯 네트워크라니...
+npckaanseries_Other11Say_002,[wave]그그그그건[/wave]||...|| 말도 안 되잖아...| 그치?!
+npckaanseries_Other11Say_003,이 행성 전체가 거대한 버섯이라도 되는 거야?
+npckaanseries_Other11Say_004,비스티들이 그냥 재밌어서 스포츠를 하는 거면 훨씬 간단할 텐데.
+npckaanseries_Other11Say_005,"아니 내가 바스켓잼 할 때,| 맹세컨대 버섯 때문에 하는 거 아니거든."
 Karma_Create0npcname_001,Karma
 karmachat_Other11Say_001,I'm literally obsessed with {0}.
 karmachat_Other11Say_002,I've never been excited for a Beastieball team like this.
@@ -11893,40 +11893,40 @@ karmaserieschat_Other11Say_007,"But like,| what if they're |SECRETLY in?"
 karmaserieschat_Other11Say_008,Like they show up as a surprise addition sometime during the tournament?
 karmaserieschat_Other11Say_009,Does that ever happen?|| I hope it does.
 Katya_Create0npcname_001,Katya
-npckatya_Other11Say_001,The Party Pirates have clearly figured out a pretty good thing for themselves here.
-npckatya_Other11Say_002,They've definitely got the kids on their side.
-npckatya_Other11Say_003,My daughter won't shut up about them...
-npckatya_Other11Say_004,The trip out here wasn't so easy.
-npckatya_Other11Say_005,It was almost worth it to see her ear to ear grin when we got to the Pirates.
-npckatya_Other11Say_006,But then I heard there's a beached {0} blocking the route out of here...
-npckatya_Other11Say_007,"[scale,.7]I don't know how much longer I can take it..."
-npckatya_Other11Say_008,"Oh,| the {0} is gone already?!|| Thank goodness."
-Kids_Create0npcname_001,Allison & David
-npckids_Other11Say_001,"Ever since we were little kids,| we could talk to Beasties!"
-npckids_Other11Say_002,David...||| you're still a little kid.
-npckids_Other11Say_003,Nuh uh!
-npckids_Other11Say_004,He's right though.|| Callisto says we're prodigies.
-npckids_Other11Say_005,They pulled us out of school so we could train to be super coaches.
-npckids_Other11Say_006,We're gonna win the Crown Series someday.
-npckids_Other11Say_007,I just think it's fun that we get to play with Beasties every day.
-npckids_Other11Say_008,David lacks the winner mentality because he's still just a kid.
-npckids_Other11Say_009,[wave]Oh my goooosh!!!!
-npckids_Other11Say_010,It feels cool to be here.
-npckids_Other11Say_011,Everyone is so much older than us...
-npckids_Other11Say_012,"But everyone's here 'cuz they love Beasties,| so they're all cool."
-npckids_Other11Say_013,And Allison and I have each other so we don't get lonely!
-npckids_Other11Say_014,"Yeah,| for now."
-npckids_Other11Say_015,...|||[wave]For now?
-npckids_Other11Say_016,Well yeah.|| When we grow up we're gonna be rivals.
-npckids_Other11Say_017,We are?
-npckids_Other11Say_018,Yeah.|| I'm gonna crush you.
-npckids_Other11Say_019,Haha!|| Nuh uh...
-npckids_Other11Say_020,"We aren't old enough to travel alone and take Beasties,"
-npckids_Other11Say_021,But we practice a lot in the Draft Challenge.
-npckids_Other11Say_022,There are lots of Beasties that live at the Academy!
-npckids_Other11Say_023,Other coaches leave them here to train.
-npckids_Other11Say_024,It's fun getting to practice with all of them!
-npckids_Other11Say_025,"If you do the Challenge,| maybe we'll get to play sometime."
+npckatya_Other11Say_001,파티 해적단은 여기서 확실히 짭짤한 걸 찾아냈네.
+npckatya_Other11Say_002,애들 마음은 완전히 사로잡았어.
+npckatya_Other11Say_003,우리 딸이 해적단 얘기를 입에 달고 살아...
+npckatya_Other11Say_004,여기까지 오는 길이 쉽진 않았어.
+npckatya_Other11Say_005,해적단을 만났을 때 딸이 귀에 걸리게 웃는 걸 보니 그럭저럭 그럴 만했지.
+npckatya_Other11Say_006,근데 여기서 나가는 길을 해변에 떠밀려 온 {0}이(가) 막고 있대...
+npckatya_Other11Say_007,"[scale,.7]얼마나 더 버틸 수 있을지 모르겠다..."
+npckatya_Other11Say_008,"어머,| {0}이(가) 벌써 갔다고?!|| 다행이다."
+Kids_Create0npcname_001,앨리슨 & 데이비드
+npckids_Other11Say_001,우린 아주 어릴 때부터 비스티랑 대화할 수 있었어!
+npckids_Other11Say_002,데이비드...||| 너 아직도 어리거든.
+npckids_Other11Say_003,아니거든!
+npckids_Other11Say_004,근데 얘 말이 맞아.|| 칼리스토 선생님이 우리더러 신동이래.
+npckids_Other11Say_005,슈퍼 코치가 되는 훈련을 하라고 우리를 학교에서 빼 주셨어.
+npckids_Other11Say_006,우린 언젠가 크라운 시리즈에서 우승할 거야.
+npckids_Other11Say_007,난 그냥 매일 비스티랑 놀 수 있어서 좋은데.
+npckids_Other11Say_008,데이비드는 아직 애라서 승리하는 정신력이 부족해.
+npckids_Other11Say_009,[wave]세상에에에에!!!!
+npckids_Other11Say_010,여기 있으니까 기분 좋다.
+npckids_Other11Say_011,다들 우리보다 훨씬 나이가 많아...
+npckids_Other11Say_012,"그래도 다들 비스티가 좋아서 온 거니까,| 다 멋진 사람들이야."
+npckids_Other11Say_013,그리고 나랑 앨리슨은 서로 있으니까 안 외로워!
+npckids_Other11Say_014,"응,| 지금은."
+npckids_Other11Say_015,...|||[wave]지금은?
+npckids_Other11Say_016,당연하지.|| 크면 우린 라이벌이 될 거니까.
+npckids_Other11Say_017,우리가?
+npckids_Other11Say_018,응.|| 내가 널 박살 낼 거야.
+npckids_Other11Say_019,하하!|| 아니거든...
+npckids_Other11Say_020,"우린 아직 혼자 여행하면서 비스티를 데리고 다닐 나이가 아니라서,"
+npckids_Other11Say_021,대신 드래프트 챌린지에서 연습을 많이 해.
+npckids_Other11Say_022,아카데미에는 비스티가 엄청 많이 살아!
+npckids_Other11Say_023,다른 코치들이 훈련시키려고 여기 맡겨 두거든.
+npckids_Other11Say_024,걔네랑 다 같이 연습하는 거 재밌어!
+npckids_Other11Say_025,"너도 챌린지 하면,| 언젠가 우리랑 경기할 수도 있겠다."
 towerbosskids_Other11Say_001,Ooohhh...|| I really wanted to play you!
 towerbosskids_Other11Say_002,"You're the coach who beat Callisto,| right?"
 towerbosskids_Other11Say_003,Don't underestimate us just because we're kids.
@@ -11988,113 +11988,113 @@ finalbossking_Other11Say_019,you all might claw the league away from me
 finalbossking_Other11Say_020,but i'm not gonna go away from this
 finalbossking_Other11Say_021,you haven't seen the last of me...
 Kisy_Create0npcname_001,Kisy
-npckisy_Other11Say_001,Oh pants.
-npckisy_Other11Say_002,I'm nursing a wicked headache right now.
-npckisy_Other11Say_003,This whole vacation's just been one club after the last.
-npckisy_Other11Say_004,I might have finally hit my limit.
-npckisy_Other11Say_005,I need a break from existing.
-npckisy_Other11Say_006,This is too much.
-npckisy_Other11Say_007,"Ack,| and I need to be back at work next week."
-npckisy_Other11Say_008,I can't...
-npckisyboss_Other11Say_001,This trip to Chartreuse has been exhausting...
-npckisyboss_Other11Say_002,"But a Ranked Match...?|| Well,| I can't miss |THAT."
-npckisyboss_Other11Say_003,I'll just keep slapping myself to stay awake.
-npckisyboss_Other11Say_004,"I'm gonna have fun,| dangit!!!"
+npckisy_Other11Say_001,아 젠장.
+npckisy_Other11Say_002,지금 머리가 깨질 것 같아.
+npckisy_Other11Say_003,이번 휴가는 그냥 클럽에서 클럽으로 계속 옮겨 다니기만 했어.
+npckisy_Other11Say_004,드디어 한계에 다다른 것 같아.
+npckisy_Other11Say_005,존재하는 것 자체를 좀 쉬고 싶다.
+npckisy_Other11Say_006,이건 너무해.
+npckisy_Other11Say_007,"으악,| 다음 주엔 회사도 다시 나가야 하는데."
+npckisy_Other11Say_008,못 해...
+npckisyboss_Other11Say_001,샤르트뢰즈 여행 진짜 피곤하다...
+npckisyboss_Other11Say_002,근데 랭크 경기라고...?|| 그럼 |그건 놓칠 수 없지.
+npckisyboss_Other11Say_003,안 졸게 계속 뺨이라도 때려야겠어.
+npckisyboss_Other11Say_004,"무조건 즐기고 말 거야, 젠장!!!"
 Korwin_Other13Say_001,This team of uncoached Beasties wants to challenge you!
 Korwin_Other13Say_002,"Before you know it,| they're scampering off into the hills..."
 Lena_Create0npcname_001,Lena
-npchiddensoundtest_Other11Say_001,"Just like people,| Beasties can have Yearnings."
-npchiddensoundtest_Other11Say_002,It's like...|| a nagging wish to accomplish something!
-npchiddensoundtest_Other11Say_003,"If you ever see a Beastie with a cloud over their head,| that's what it is!"
-npchiddensoundtest_Other11Say_004,You shouldn't let those linger.
-npchiddensoundtest_Other11Say_005,A Beastie with an unfulfilled Yearning might have its growth stunted.
-npchiddensoundtest_Other11Say_006,Whereas accomplishing them is always a huge learning opportunity!
-npchiddensoundtest_Other11Say_007,Beasties yearn for all sorts of things!
-npchiddensoundtest_Other11Say_008,They'll always wanna do something they haven't before.
-npchiddensoundtest_Other11Say_009,"But whatever weird thing they want,| it's ALWAYS [c_red]something they can do with their team!"
-npchiddensoundtest_Other11Say_010,It |[wave]miiiight[/wave] just require a play that they or a teammate have neglected to use before.
-npchiddensoundtest_Other11Say_011,"If I had a Yearning,| it would be to hang out with cute Beasties all the time!"
-npchiddensoundtest_Other11Say_012,"Except unlike Beasties,| my Yearning is never satisfied."
-npchiddensoundtest_Other11Say_013,Because I could always hang out with them more...
-npchiddensoundtest_Other11Say_014,Oh no...|| does that sound sad?
-npchiddensoundtest_Other11Say_015,"It's not,| it's actually the best."
+npchiddensoundtest_Other11Say_001,"사람처럼,| 비스티도 갈망을 가질 수 있어."
+npchiddensoundtest_Other11Say_002,그러니까...|| 뭔가를 해내고 싶어서 자꾸 신경 쓰이는 소원 같은 거야!
+npchiddensoundtest_Other11Say_003,"머리 위에 구름이 떠 있는 비스티를 보면,| 바로 그거야!"
+npchiddensoundtest_Other11Say_004,그걸 그냥 내버려 두면 안 돼.
+npchiddensoundtest_Other11Say_005,갈망을 이루지 못한 비스티는 성장이 멈출 수도 있어.
+npchiddensoundtest_Other11Say_006,반대로 갈망을 이루면 언제나 크게 배우는 기회가 되고!
+npchiddensoundtest_Other11Say_007,비스티들은 온갖 걸 갈망해!
+npchiddensoundtest_Other11Say_008,항상 전에 안 해 본 걸 하고 싶어 하지.
+npchiddensoundtest_Other11Say_009,"근데 아무리 이상한 걸 원해도,| [c_red]언제나 팀과 함께 할 수 있는 일이야!"
+npchiddensoundtest_Other11Say_010,|[wave]어쩌면[/wave] 그 비스티나 팀원이 그동안 안 써 본 플레이가 필요할지도 몰라.
+npchiddensoundtest_Other11Say_011,"나한테 갈망이 있다면,| 귀여운 비스티들이랑 맨날 같이 노는 거겠지!"
+npchiddensoundtest_Other11Say_012,"근데 비스티랑 달리,| 내 갈망은 절대 채워지지 않아."
+npchiddensoundtest_Other11Say_013,언제나 더 같이 놀 수 있으니까...
+npchiddensoundtest_Other11Say_014,어머...|| 이거 좀 슬프게 들려?
+npchiddensoundtest_Other11Say_015,"안 슬퍼,| 오히려 최고야."
 Lillian_Create0npcname_001,Lillian
 Lisa_Other10name_001,
 Lisa_Other10name_002,Kiara
 Lisa_Other10name_003,
 Lisa_Create0npcname_001,Lisa
-npclisa_Other11Say_001,Just got back from taking 'ol Kiara out for a volley!
-npclisa_Other11Say_002,"Keeping a Beastie as a pet's a lot of work,| y'know?"
-npclisa_Other11Say_003,Even if you're not a coach...|| a Beastie needs to play Beastieball!
-npclisa_Other11Say_004,"If Kiara doesn't get their daily volley then you can bet there are |PROBLEMS,| hoo boy."
-npclisa_Other11Say_005,Beasties make great pets!|| They're pretty dang smart.
-npclisa_Other11Say_006,You just gotta be ready for that sporty energy they bring into your life.
-npclisa_Other11Say_007,I can't imagine life without Kiara now.
-npclisa_Other11Say_008,"Beasties are pretty smart, but...|| I wouldn't say they're smarter than humans."
-npclisa_Other11Say_009,And humans are pretty stupid in lots of our own ways.
-npclisa_Other11Say_010,"We're all just stupid animals doing our best together on this planet,| y'know?"
-npclisa_Other11Say_011,That's why we gotta stick together.
+npclisa_Other11Say_001,방금 우리 키아라 데리고 발리 연습하고 왔어!
+npclisa_Other11Say_002,"비스티를 반려동물로 키우는 거 손이 많이 가,| 알지?"
+npclisa_Other11Say_003,코치가 아니어도...|| 비스티는 비스티볼을 해야 하거든!
+npclisa_Other11Say_004,"키아라가 하루 발리를 못 하면 |난리가 나,| 어휴."
+npclisa_Other11Say_005,비스티는 최고의 반려동물이야!|| 엄청 똑똑하거든.
+npclisa_Other11Say_006,걔네가 몰고 오는 운동부 에너지만 각오하면 돼.
+npclisa_Other11Say_007,이제 키아라 없는 삶은 상상도 못 하겠어.
+npclisa_Other11Say_008,비스티가 꽤 똑똑하긴 한데...|| 사람보다 똑똑하다고는 못 하겠다.
+npclisa_Other11Say_009,그리고 사람도 여러모로 꽤 멍청하잖아.
+npclisa_Other11Say_010,"우린 다 이 행성에서 함께 애쓰며 사는 멍청한 동물일 뿐이야,| 알지?"
+npclisa_Other11Say_011,그러니까 서로 똘똘 뭉쳐야 해.
 Lucille_Create0npcname_001,Lucille
-npclucille_Other11Say_013,[wave]Come oooon.[/wave]|| You can do it!
-npclucille_Other11Say_014,We've only got one night left here...
-npclucille_Other11Say_015,We were saving the Mermaid Club for last.|| We can't miss that...
-npclucille_Other11Say_016,"Was an entire week straight of sun,| fun,| and dancing an ambitious plan?|| Yes."
-npclucille_Other11Say_017,Am I going to let my frail human body stop me from finishing it?|| No!
-npclucille_Other11Say_018,We saved up for this trip a long time.
-npclucille_Other11Say_019,We're |GOING to that club even if it kills us.
-npclucille_Other11Say_020,"Okay,| we haven't acknowledged the other major roadblock."
-npclucille_Other11Say_021,Which is:|| we don't have VIP invites.
-npclucille_Other11Say_022,So we cannot simply enter the Mermaid Club.
-npclucille_Other11Say_023,But I've seen the people who go in there.|| They look basic as.
-npclucille_Other11Say_024,"If they somehow got invites,| we can too.|| Somehow."
-npclucilleboss_Other11Say_004,"[wave]AHHHH![/wave]|| Sunsoo!!!|| [shake]LIVE,|| IN PERSON!!!"
-npclucilleboss_Other11Say_005,I've only ever seen him on TV...
-npclucilleboss_Other11Say_006,I want to see the sweat shine on his perfect little face!
+npclucille_Other11Say_013,[wave]제발 좀.[/wave]|| 할 수 있어!
+npclucille_Other11Say_014,여기 있을 밤이 하룻밤밖에 안 남았어...
+npclucille_Other11Say_015,머메이드 클럽은 마지막을 위해 아껴 둔 거란 말이야.|| 거길 놓칠 순 없어...
+npclucille_Other11Say_016,"꼬박 일주일 동안 햇볕,| 재미,| 춤으로 채우는 건 무리한 계획이었냐고?|| 응."
+npclucille_Other11Say_017,이 연약한 인간의 몸 때문에 끝까지 못 갈 거냐고?|| 아니!
+npclucille_Other11Say_018,이 여행 가려고 오랫동안 돈 모았어.
+npclucille_Other11Say_019,죽는 한이 있어도 그 클럽엔 |꼭 갈 거야.
+npclucille_Other11Say_020,"좋아,| 또 하나 큰 걸림돌을 아직 말 안 했네."
+npclucille_Other11Say_021,그게 뭐냐면:|| 우리한텐 VIP 초대장이 없어.
+npclucille_Other11Say_022,그래서 머메이드 클럽에 그냥 들어갈 수가 없어.
+npclucille_Other11Say_023,근데 거기 들어가는 사람들 봤거든.|| 완전 평범해 보이던데.
+npclucille_Other11Say_024,"걔네도 어떻게든 초대장을 받았으면,| 우리도 받을 수 있어.|| 어떻게든."
+npclucilleboss_Other11Say_004,"[wave]꺄아아아![/wave]|| Sunsoo!!!|| [shake]실물,|| 직접 보다니!!!"
+npclucilleboss_Other11Say_005,TV에서만 봤는데...
+npclucilleboss_Other11Say_006,그 완벽하고 조그만 얼굴에 땀이 반짝이는 걸 보고 싶어!
 Magdalena_Create0npcname_001,Magdalena
-npcmagdalena_Other11Say_001,Us casual coaches rely on parks like this so our buddies can play!
-npcmagdalena_Other11Say_002,"Honestly,| I wish we had more Beastie parks in Geo City..."
-npcmagdalena_Other11Say_003,Our walk to here is pretty far.
-npcmagdalena_Other11Say_004,"But Norbert needs a chance to play every single day,| so I'm always here."
-npcmagdalena_Other11Say_005,It's tough finding places for Norbert to get their energy out.
-npcmagdalena_Other11Say_006,They're always getting riled up and wanting to play the Beasties in Mainframe...
-npcmagdalena_Other11Say_007,But that's also a quick way for random pedestrians to get hurt.
-npcmagdalena_Other11Say_008,Also...|| Sometimes I'm just trying to get somewhere without a whole sports match.
-npcmagdalena_Other11Say_009,I tried taking Norbert to Domain Park once...
-npcmagdalena_Other11Say_010,"The park is great,| but the Beasties were way too strong!"
-npcmagdalena_Other11Say_011,Poor Norbert didn't stand a chance...
+npcmagdalena_Other11Say_001,우리 같은 취미 코치들은 친구들이 경기할 수 있게 이런 공원이 꼭 필요해!
+npcmagdalena_Other11Say_002,"솔직히,| 지오 시티에 비스티 공원이 더 많았으면 좋겠어..."
+npcmagdalena_Other11Say_003,여기까지 걸어오는 길이 꽤 멀거든.
+npcmagdalena_Other11Say_004,"근데 노버트는 매일 꼭 경기를 해야 해서,| 난 맨날 여기 와."
+npcmagdalena_Other11Say_005,노버트가 에너지를 풀 곳을 찾기가 힘들어.
+npcmagdalena_Other11Say_006,맨날 흥분해서 메인프레임에 있는 비스티들이랑 경기하고 싶어 하는데...
+npcmagdalena_Other11Say_007,그러다 지나가던 사람이 다치기 딱 좋잖아.
+npcmagdalena_Other11Say_008,그리고...|| 가끔은 그냥 경기 한 판 없이 어디 좀 가고 싶을 때도 있고.
+npcmagdalena_Other11Say_009,한번은 노버트를 도메인 공원에 데려가 봤어...
+npcmagdalena_Other11Say_010,"공원은 좋은데,| 비스티들이 너무 강했어!"
+npcmagdalena_Other11Say_011,불쌍한 노버트는 상대도 안 됐지...
 Mangroveboss_Other10Say_001,"Before you know it,| they're scampering off into the hills..."
 Mangroveboss_Other10Say_002,(The mysterious Beastie was registered to your MAP!)
 Mangroveboss_Other10Say_003,(You can track their wandering location to research them...)
 Mangroveboss_Other13Say_001,A Beastie is here awaiting a challenger...
 Martin_Create0npcname_001,Martin
-npcmartin_Other11Say_001,Why hello!|| You don't see people wandering the Weald often.
-npcmartin_Other11Say_002,Me?|| I'm here to photograph spiders.
-npcmartin_Other11Say_003,"No,| not spider Beasties.|| You know...|| spiders!"
-npcmartin_Other11Say_004,"Ha ha ha.|| Well,| to some,| they're less exciting since they don't play sports."
-npcmartin_Other11Say_005,But I find them endlessly fascinating.
-npcmartin_Other11Say_006,"I like Beasties too,| of course.|| Especially the ""spider"" ones."
-npcmartin_Other11Say_007,"I say ""spider"" because,| you know...|| They're not spiders.|| They're Beasties!"
-npcmartin_Other11Say_008,"They may look similar,| but they're really completely unrelated."
-npcmartin_Other11Say_009,"When different things in nature develop the same characteristics,| that's called ""convergent evolution."""
-npcmartin_Other11Say_010,The fact that some Beasties look like spiders demonstrates the advantage of that form!
-npcmartin_Other11Say_011,"I can't explain {0},| though.|| Is it really advantageous to be a clown?"
-npcmartin_Other11Say_012,I wonder if there are any mime spiders...
-npcmartin_Other11Say_013,I come back to the Weald often because every trip here feels different.
-npcmartin_Other11Say_014,"No,| actually...|| I think it |IS different."
-npcmartin_Other11Say_015,The walls aren't always what they seem!
-npcmartin_Other11Say_016,It can be scary in there.|| Be careful.
+npcmartin_Other11Say_001,어머 안녕하세요!|| 윌드를 돌아다니는 사람은 흔치 않은데요.
+npcmartin_Other11Say_002,저요?|| 거미 사진 찍으러 왔어요.
+npcmartin_Other11Say_003,"아뇨,| 거미 비스티 말고요.|| 그러니까...|| 진짜 거미요!"
+npcmartin_Other11Say_004,"하하하.|| 뭐,| 스포츠를 안 하니까 덜 신난다는 사람도 있죠."
+npcmartin_Other11Say_005,그래도 전 아무리 봐도 질리지 않아요.
+npcmartin_Other11Say_006,"물론 비스티도 좋아해요.|| 특히 ""거미"" 같은 애들이요."
+npcmartin_Other11Say_007,"""거미""라고 하는 이유는,| 그러니까...|| 걔네는 거미가 아니잖아요.|| 비스티죠!"
+npcmartin_Other11Say_008,"비슷해 보여도,| 사실은 전혀 상관이 없어요."
+npcmartin_Other11Say_009,"자연에서 서로 다른 생물이 같은 특징을 갖게 되는 걸 ""수렴 진화""라고 해요."
+npcmartin_Other11Say_010,어떤 비스티가 거미처럼 생겼다는 건 그 형태가 유리하다는 증거예요!
+npcmartin_Other11Say_011,근데 {0}은(는) 설명이 안 돼요.|| 광대인 게 정말 유리한 걸까요?
+npcmartin_Other11Say_012,마임 하는 거미도 있으려나...
+npcmartin_Other11Say_013,윌드에 자주 오는 건 올 때마다 느낌이 다르기 때문이에요.
+npcmartin_Other11Say_014,"아니,| 사실은...|| |진짜로 달라지는 것 같아요."
+npcmartin_Other11Say_015,벽이 늘 보이는 그대로가 아니거든요!
+npcmartin_Other11Say_016,안에 들어가면 무서울 수도 있어요.|| 조심하세요.
 Martin_Other11Say_001,[wave]OHHHH![/wave]|| Your {0}...|| what a thing of beauty!
 Martin_Other11Say_002,I've never seen one like that.|| It must be a raremorph?
 Martin_Other11Say_003,I always wondered if mime spiders were real...
 Martin_Other11Say_004,Maybe I'm the only person who ever wondered that.|| But now I'll wonder no more!
 Merrick_Create0npcname_001,Merrick
-npcmerrick_Other11Say_001,"This beach used t'be a best kept secret,| but it ain't a secret no more."
-npcmerrick_Other11Say_002,You see parades of city kids steppin' off the train here every day now.
-npcmerrick_Other11Say_003,I didn't mind at first...
-npcmerrick_Other11Say_004,But I'm gettin' pretty sick of seeing their trash on the shore.
-npcmerrick_Other11Say_005,"Word is,| they're gonna take our Railhouse and turn it into a Zip Station one day."
-npcmerrick_Other11Say_006,"When that happens...|| this place is never goin' back,| I tell ya."
-npcmerrick_Other11Say_007,We'll be another Geo City neighborhood...
+npcmerrick_Other11Say_001,"이 해변은 원래 아는 사람만 아는 곳이었는데,| 이젠 비밀도 아니야."
+npcmerrick_Other11Say_002,요즘은 매일 도시 애들이 기차에서 줄줄이 내려.
+npcmerrick_Other11Say_003,처음엔 괜찮았어...
+npcmerrick_Other11Say_004,근데 해변에 버리고 가는 쓰레기 보는 것도 이제 지긋지긋해.
+npcmerrick_Other11Say_005,"소문엔,| 언젠가 우리 레일하우스를 집 스테이션으로 바꾼대."
+npcmerrick_Other11Say_006,"그렇게 되면...|| 여긴 절대 예전으로 못 돌아가,| 내 말 믿어."
+npcmerrick_Other11Say_007,그냥 지오 시티의 동네 하나가 되겠지...
 Miranda_Create0npcname_001,Miranda
 Miranda_Other11Say_001,"Shhh.|| [shake, .5]Shhh!!!"
 Miranda_Other11Say_002,"[scale,.7]Please tread lightly..."
@@ -12285,59 +12285,59 @@ naveenboyfriendchat_Other11Say_004,I really like Rahma.
 naveenboyfriendchat_Other11Say_005,I don't think she's as serious about me as I am about her...
 naveenboyfriendchat_Other11Say_006,But I'll stick around until she is.
 Odina_Create0npcname_001,Odina
-npcodina_Other11Say_001,I'm worried for my son...
-npcodina_Other11Say_002,He's been saying he wants to become a pro Beastieball coach.
-npcodina_Other11Say_003,"I mean,| he's very smart and I'm sure he can do anything."
-npcodina_Other11Say_004,But it doesn't seem like a very stable career path.
-npcodina_Other11Say_005,He might be taking too much life advice from watching TV.
-npcodina_Other11Say_006,"Maybe I'm behind the times,| but I just don't get Beastieball."
-npcodina_Other11Say_007,I know that some coaches become very rich and successful.
-npcodina_Other11Say_008,But...||| why?|| Is it really |THAT popular?
-npcodina_Other11Say_009,It might take years of practice before my son goes pro.
-npcodina_Other11Say_010,What if it's all a fad that fades away before he gets there...
-npcodina_Other11Say_011,"If my son is passionate and driven,| I'll support him."
-npcodina_Other11Say_012,Even if it is for something silly like Beastieball.
-npcodina_Other11Say_013,I just hope it's real passion and not just chasing fads.
-npcodina_Other11Say_014,You can't always tell the difference when you're young...|| I should know.
-npcodina_Other11Say_015,He'll need a real job someday to support my future grandkids.
+npcodina_Other11Say_001,아들이 걱정이에요...
+npcodina_Other11Say_002,프로 비스티볼 코치가 되고 싶다고 하거든요.
+npcodina_Other11Say_003,"물론,| 아주 똑똑한 애라서 뭐든 할 수 있을 거예요."
+npcodina_Other11Say_004,그래도 별로 안정적인 직업 같진 않아서요.
+npcodina_Other11Say_005,TV 보면서 인생 조언을 너무 많이 얻는 건지도 모르겠어요.
+npcodina_Other11Say_006,"제가 시대에 뒤떨어진 건지 몰라도,| 비스티볼은 도무지 이해가 안 돼요."
+npcodina_Other11Say_007,어떤 코치는 엄청 부자가 되고 성공한다는 건 알아요.
+npcodina_Other11Say_008,근데...||| 왜죠?|| 정말 |그렇게까지 인기가 많나요?
+npcodina_Other11Say_009,아들이 프로가 되려면 몇 년을 연습해야 할지도 몰라요.
+npcodina_Other11Say_010,그 전에 반짝 유행으로 끝나 버리면 어떡하죠...
+npcodina_Other11Say_011,"아들이 열정 있고 의욕이 넘친다면,| 응원해 줄 거예요."
+npcodina_Other11Say_012,그게 비스티볼 같은 시시한 거라도요.
+npcodina_Other11Say_013,그냥 유행을 좇는 게 아니라 진짜 열정이길 바랄 뿐이에요.
+npcodina_Other11Say_014,어릴 땐 그 차이를 잘 모르거든요...|| 저도 그랬으니까요.
+npcodina_Other11Say_015,언젠간 미래의 제 손주들을 먹여 살릴 진짜 직업이 필요할 거예요.
 Oleh_Create0npcname_001,Oleh
-npcoleh_Other11Say_001,ARE YOU A BEASTIEBALL COACH?|| WE HAVE A BEASTIEBALL COACH!
-npcoleh_Other11Say_002,"HIS NAME IS SUNSOO AND MY MOM SAYS HE'S ""ALL WASHED UP"" SO I THINK HE MUST BE REALLY CLEAN."
-npcoleh_Other11Say_003,YOU DON'T SEEM VERY CLEAN SO MAYBE YOU SHOULD BE WASHED UP TOO.
-npcoleh_Other11Say_004,MY MOM TALKS ABOUT SUNSOO A LOT SO I THINK SHE REALLY LIKES HIM.
-npcoleh_Other11Say_005,ONE TIME SHE SAID HE WAS TRASHY BUT THAT MADE HIM KINDA HOT.
-npcoleh_Other11Say_006,I DON'T THINK MY DAD LIKES IT WHEN SHE TALKS ABOUT HIM THOUGH SO SHE STOPPED.
-npcoleh_Other11Say_007,MY MOM SAYS I NEED TO LEARN AN INDOOR VOICE.
+npcoleh_Other11Say_001,너 비스티볼 코치야?|| 우리 동네에도 비스티볼 코치 있다!
+npcoleh_Other11Say_002,"이름은 SUNSOO고 우리 엄마가 그 사람 ""한물갔다""고 했으니까 물로 엄청 씻었나 봐."
+npcoleh_Other11Say_003,너는 별로 안 깨끗해 보이니까 너도 한물 좀 가야겠다.
+npcoleh_Other11Say_004,우리 엄마가 SUNSOO 얘기를 엄청 하니까 엄청 좋아하나 봐.
+npcoleh_Other11Say_005,한번은 그 사람이 막장인데 그래서 좀 섹시하대.
+npcoleh_Other11Say_006,근데 엄마가 그 사람 얘기하면 아빠가 싫어하는 것 같아서 이제 안 해.
+npcoleh_Other11Say_007,우리 엄마가 나보고 실내에선 작게 말하는 법을 배워야 한대.
 Paula_Create0npcname_001,Paula
-npcpaula_Other11Say_001,"I'm studying psych,| with a thesis on human/Beastie psychology."
-npcpaula_Other11Say_002,But the more I learn...|| we have so much in common.
-npcpaula_Other11Say_003,"Like,| humans and Beasties are both |SUPER predisposed to believing in rules."
-npcpaula_Other11Say_004,"I mean,| all animals have their own social rules."
-npcpaula_Other11Say_005,But only humans and Beasties have a complex enough understanding of rules to make sports.
-npcpaula_Other11Say_006,Isn't that...|| weird?
-npcpaula_Other11Say_007,How deeply ingrained are sports and games to the nature of our minds?
-npcpaula_Other11Say_008,"Even in the wild,| Beasties have deep respect for arbitrary game boundaries."
-npcpaula_Other11Say_009,"They stay on their side,| they do the right types of actions..."
-npcpaula_Other11Say_010,And you know what's crazy?
-npcpaula_Other11Say_011,"Sports scientists have tested changing the game rules,| and Beasties will respect those too."
-npcpaula_Other11Say_012,So it's not the sport itself that's in their nature.
-npcpaula_Other11Say_013,It's the respect for rules and order.
-npcpaula_Other11Say_014,That belief in order runs really deep in the human/Beastie symbiosis.
-npcpaula_Other11Say_015,This kinda gets into theoretical territory...
-npcpaula_Other11Say_016,"But,| the way we assign a number to coached Beasties might tie into it."
-npcpaula_Other11Say_017,"Like,| think about it."
-npcpaula_Other11Say_018,A coached Beastie is basically submitting themselves to a human's conception of order.
-npcpaula_Other11Say_019,"The ""number"" we assign them is like,| a symbol of that submission."
-npcpaula_Other11Say_020,"I mean,| it is literally what marks a coached Beastie from a wild one."
-npcpaula_Other11Say_021,"But ""numbers,""|| as an entire concept,|| are,|| like,|| SO| human."
-npcpaula_Other11Say_022,"They say:|| ""We live in a countable,| mathematical society."""
-npcpaula_Other11Say_023,"""There is an order...| and this is your number."""
-npcpaula_Other11Say_024,"That submission is also what gives Beasties access to diverse teammates,| advanced strategies."
-npcpaula_Other11Say_025,Human order is advantageous to their individual growth...|| so they seek it out!
-npcpaula_Other11Say_026,Our mutual deference to rules and order is probably at the heart of our shared history.
-npcpaula_Other11Say_027,I dunno...|| is this making any sense?
-npcpaula_Other11Say_028,"Sorry,|| all this theory's just been eating at me for weeks."
-npcpaula_Other11Say_029,I'll stop blathering.
+npcpaula_Other11Say_001,심리학 공부하고 있어. 논문 주제는 인간/비스티 심리학이야.
+npcpaula_Other11Say_002,근데 배우면 배울수록...|| 우리랑 공통점이 너무 많아.
+npcpaula_Other11Say_003,"그러니까,| 인간이랑 비스티 둘 다 규칙을 믿는 성향이 |엄청 강하거든."
+npcpaula_Other11Say_004,"물론,| 모든 동물한테는 나름의 사회적 규칙이 있어."
+npcpaula_Other11Say_005,근데 스포츠를 만들 만큼 규칙을 복잡하게 이해하는 건 인간이랑 비스티뿐이야.
+npcpaula_Other11Say_006,이거...|| 이상하지 않아?
+npcpaula_Other11Say_007,스포츠랑 게임이 우리 마음 깊숙이 얼마나 박혀 있는 걸까?
+npcpaula_Other11Say_008,야생에서도 비스티들은 임의로 정한 경기 경계를 엄청 존중해.
+npcpaula_Other11Say_009,"자기 진영에만 있고,| 정해진 행동만 하고..."
+npcpaula_Other11Say_010,그리고 진짜 신기한 게 뭔지 알아?
+npcpaula_Other11Say_011,"스포츠 과학자들이 경기 규칙을 바꿔서 실험해 봤는데,| 비스티들은 그 규칙도 지켜."
+npcpaula_Other11Say_012,그러니까 본성에 있는 건 스포츠 그 자체가 아니야.
+npcpaula_Other11Say_013,규칙과 질서에 대한 존중이지.
+npcpaula_Other11Say_014,질서에 대한 그 믿음이 인간/비스티 공생 관계에 아주 깊이 뿌리내리고 있어.
+npcpaula_Other11Say_015,여기서부턴 좀 이론적인 얘기인데...
+npcpaula_Other11Say_016,"근데,| 코치가 있는 비스티한테 번호를 붙이는 것도 이거랑 관련 있을지 몰라."
+npcpaula_Other11Say_017,"그러니까,| 생각해 봐."
+npcpaula_Other11Say_018,코치가 있는 비스티는 사실상 인간이 생각하는 질서에 스스로를 맡기는 거야.
+npcpaula_Other11Say_019,"우리가 붙이는 ""번호""는,| 그러니까,| 그 순종의 상징 같은 거지."
+npcpaula_Other11Say_020,실제로 코치가 있는 비스티랑 야생 비스티를 구분하는 게 그거잖아.
+npcpaula_Other11Say_021,"근데 ""숫자""라는| 개념 자체가,|| 그러니까,|| |진짜| 인간적이야."
+npcpaula_Other11Say_022,"숫자는 이렇게 말하는 거야:|| ""우리는 셀 수 있는,| 수학적인 사회에 산다."""
+npcpaula_Other11Say_023,"""질서가 있고...| 이게 네 번호다."""
+npcpaula_Other11Say_024,그 순종 덕분에 비스티들은 다양한 팀원과 고급 전략도 얻게 되고.
+npcpaula_Other11Say_025,인간의 질서가 각자의 성장에 유리하니까...|| 스스로 찾아오는 거야!
+npcpaula_Other11Say_026,규칙과 질서를 서로 따르는 게 아마 우리가 함께해 온 역사의 핵심일 거야.
+npcpaula_Other11Say_027,모르겠다...|| 이게 말이 되나?
+npcpaula_Other11Say_028,"미안,|| 이 이론 때문에 몇 주째 머리가 터질 것 같아서."
+npcpaula_Other11Say_029,그만 떠들게.
 Pierland_Create0npcname_001,Set Sail?
 Pierland_Other11Say_001,You can't go sailing in the playtest...|| sorry!
 Pierland_Other11Ask_001,Want to go sailing?
@@ -12353,35 +12353,35 @@ Player_Create0Say_002,"While they were away,| they started caring for smaller Be
 Player_Create0Say_003,They've metamorphed into {0}!
 Player_Create0Say_004,{0} came running!
 Preston_Create0npcname_001,Miles
-npcpreston_Other11Say_001,Hi...|| your Beasties look great.
-npcpreston_Other11Say_002,I'm not usually the social type...
-npcpreston_Other11Say_003,But I like coming to this park to meet other coaches.
-npcpreston_Other11Say_004,I guess I just don't understand people who don't care for Beasties...
-npcpreston_Other11Say_005,I wonder...|| have you ever had a Beastie metamorph?
-npcpreston_Other11Ask_001,"If one of your Beasties metamorphed,| how would you feel?"
-npcpreston_Other11Ask_002,Excited!
-npcpreston_Other11Ask_003,Not really a big deal.
-npcpreston_Other11Ask_004,A bit sad.
-npcpreston_Other11Ask_005,^I don't really know...
-npcpreston_Other11Say_006,"Oh,| yeah?|| I wish I felt the same..."
-npcpreston_Other11Say_007,No big deal?|| How could that be...
-npcpreston_Other11Say_008,"Ah,| I totally understand."
-npcpreston_Other11Say_009,"I feel the same,| to be honest."
-npcpreston_Other11Say_010,"It really is complicated,| isn't it?"
-npcpreston_Other11Say_011,"It's been on my mind lately because of my |||{0},|| Speck."
-npcpreston_Other11Say_012,I recruited them when they were just a tiny {0}.
-npcpreston_Other11Say_013,"To be honest,| {0} was always my favorite Beastie."
-npcpreston_Other11Say_014,"They're just so tiny,| and cute,| and perfect...|| I always wanted one!"
-npcpreston_Other11Say_015,But ever since they became a {0}...|| they're just not as cute.
-npcpreston_Other11Say_016,"I feel so guilty saying it,| because they're still my best friend,| and of course I still love them..."
-npcpreston_Other11Say_017,But...|| they're not the same Beastie I always dreamed of having...
-npcpreston_Other11Say_018,I'm just not sure how to deal with that.
-npcpreston_Other11Say_019,I need to get used to things changing.
-npcpreston_Other11Say_020,"I mean,| I've certainly changed a lot.|| I used to be a girl."
-npcpreston_Other11Say_021,But Speck always loved and accepted me no matter what...
-npcpreston_Other11Say_022,And that's what got me through some tough moments.
-npcpreston_Other11Say_023,So...|| I probably owe them the same.
-npcpreston_Other11Say_024,It's not really right to wish someone you love could just freeze in time for you.
+npcpreston_Other11Say_001,안녕...|| 네 비스티들 멋지다.
+npcpreston_Other11Say_002,난 원래 사교적인 편은 아닌데...
+npcpreston_Other11Say_003,다른 코치들 만나러 이 공원 오는 건 좋아.
+npcpreston_Other11Say_004,비스티를 안 좋아하는 사람들은 그냥 이해가 안 돼...
+npcpreston_Other11Say_005,궁금한데...|| 비스티가 변이한 적 있어?
+npcpreston_Other11Ask_001,"네 비스티가 변이하면,| 기분이 어떨 것 같아?"
+npcpreston_Other11Ask_002,신날 것 같아!
+npcpreston_Other11Ask_003,별일 아닐 것 같아.
+npcpreston_Other11Ask_004,좀 슬플 것 같아.
+npcpreston_Other11Ask_005,^잘 모르겠어...
+npcpreston_Other11Say_006,"아,| 그래?|| 나도 그랬으면 좋겠다..."
+npcpreston_Other11Say_007,별일 아니라고?|| 어떻게 그럴 수 있지...
+npcpreston_Other11Say_008,"아,| 완전 이해해."
+npcpreston_Other11Say_009,솔직히 나도 그래.
+npcpreston_Other11Say_010,"진짜 복잡하지,| 그치?"
+npcpreston_Other11Say_011,"요즘 계속 그 생각이 나는 게 내 |||{0},|| 스펙 때문이야."
+npcpreston_Other11Say_012,아주 조그만 {0}일 때 영입했거든.
+npcpreston_Other11Say_013,"솔직히,| {0}은(는) 항상 내가 제일 좋아하는 비스티였어."
+npcpreston_Other11Say_014,"너무 조그맣고,| 귀엽고,| 완벽해서...|| 늘 갖고 싶었어!"
+npcpreston_Other11Say_015,근데 {0}이(가) 된 뒤로는...|| 예전만큼 귀엽지가 않아.
+npcpreston_Other11Say_016,"이런 말 하는 것도 너무 미안해. 여전히 제일 친한 친구고, 당연히 아직도 사랑하는데..."
+npcpreston_Other11Say_017,근데...|| 내가 늘 꿈꾸던 그 비스티가 아니야...
+npcpreston_Other11Say_018,이걸 어떻게 받아들여야 할지 모르겠어.
+npcpreston_Other11Say_019,변하는 거에 익숙해져야 하는데.
+npcpreston_Other11Say_020,"그러니까,| 나도 많이 변했잖아.|| 나도 예전엔 여자였거든."
+npcpreston_Other11Say_021,근데 스펙은 내가 어떻든 항상 날 사랑하고 받아 줬어...
+npcpreston_Other11Say_022,그 덕분에 힘든 순간들을 버틸 수 있었고.
+npcpreston_Other11Say_023,그러니까...|| 나도 똑같이 해 줘야겠지.
+npcpreston_Other11Say_024,사랑하는 존재가 나를 위해 시간 속에 멈춰 있길 바라는 건 옳지 않으니까.
 Rahma_Create0npcname_001,Rahma
 rahmachat_Other11Say_001,"The best Beastie of them all?|| It's Trat,| no question!"
 rahmachat_Other11Say_002,"I love their big ears,| their adorable little scurry..."
@@ -12450,36 +12450,36 @@ chatrubberfarmer_Other11Say_015,"Well,| I better be gettin' back to work soon."
 chatrubberfarmer_Other11Say_016,You should scram outta here.
 Rubberplaque_Create0npcname_001,Info...
 Ruben_Create0npcname_001,Ruben
-npcruben_Other11Say_001,It was Marcy's grandparents who first started the Pirate Show.
-npcruben_Other11Say_002,Back then this was just another small fishing village.
-npcruben_Other11Say_003,"But as its notoriety grew,| the show brought visitors from all over."
-npcruben_Other11Say_004,It's become an important part of Gamboge's history...
-npcruben_Other11Say_005,The Party Pirates were doing fine before the League appeared.
-npcruben_Other11Say_006,I think they poached the Party Pirates to elevate their own status.
-npcruben_Other11Say_007,"It's a bit silly,| if you ask me..."
-npcruben_Other11Say_008,"Sure,| they're strong Beasties,| but they were raised for the stage."
+npcruben_Other11Say_001,해적 쇼를 처음 시작한 건 마시의 조부모님이었어.
+npcruben_Other11Say_002,그땐 여기도 그냥 작은 어촌이었지.
+npcruben_Other11Say_003,근데 쇼가 유명해지면서| 사방에서 관광객이 몰려들었어.
+npcruben_Other11Say_004,이제는 갬부지 역사의 중요한 일부가 됐지...
+npcruben_Other11Say_005,파티 해적단은 리그가 나타나기 전에도 잘 지냈어.
+npcruben_Other11Say_006,내 생각엔 리그가 자기네 위상을 높이려고 파티 해적단을 빼 간 것 같아.
+npcruben_Other11Say_007,내가 보기엔 좀 우스워...
+npcruben_Other11Say_008,"물론,| 강한 비스티들이긴 하지만,| 무대용으로 키운 애들이잖아."
 Rufus_Create0npcname_001,Rufus
-npcrufus_Other11Say_001,Cobalt was assigned to me by the League for work.
-npcrufus_Other11Say_002,Many League Techs are assigned Calcroach like Cobalt...|| They're very smart and handy.
-npcrufus_Other11Say_003,But Cobalt's become more than a work partner to me.
-npcrufus_Other11Say_004,So when my superior finally offered me some vacation days...
-npcrufus_Other11Say_005,"I took them only on the condition that Cobalt come,| too."
-npcrufus_Other11Say_006,Cobalt is a very diligent office worker.
-npcrufus_Other11Say_007,I don't believe they get much time to play Beastieball.
-npcrufus_Other11Say_008,Perhaps it's not their primary interest.|| But it's something all Beasties need.
-npcrufus_Other11Say_009,"Humans need some time for recreation,| too."
-npcrufus_Other11Say_010,It's been far too long since I touched the sea.
-npcrufus_Other11Say_011,Work at the League has always been busy.
-npcrufus_Other11Say_012,"I suppose it's like that everywhere,| isn't it?"
-npcrufus_Other11Say_013,Their plans always grow faster than the staff does.
-npcrufus_Other11Say_014,So it's a constant game of catch-up.
-npcrufus_Other11Say_015,"Not that I mind it.|| Actually,| I enjoy the work."
-npcrufus_Other11Say_016,But it's easy to miss months of your life flying by while you're busy.
-npcrufus_Other11Say_017,Our vacation's nearly over now.
-npcrufus_Other11Say_018,But it seems everything at the League has shifted while we were away.
-npcrufus_Other11Say_019,I suppose I picked the right time to take off.
-npcrufus_Other11Say_020,Or maybe the wrong time...
-npcrufus_Other11Say_021,I wonder what sort of job we'll be coming back to.
+npcrufus_Other11Say_001,코발트는 리그에서 업무용으로 배정해 준 비스티예요.
+npcrufus_Other11Say_002,리그 기술자들은 코발트 같은 칼크로치를 많이 배정받아요...|| 아주 똑똑하고 손재주가 좋거든요.
+npcrufus_Other11Say_003,그런데 코발트는 이제 저한테 업무 파트너 그 이상이에요.
+npcrufus_Other11Say_004,그래서 상사가 드디어 휴가를 주겠다고 했을 때...
+npcrufus_Other11Say_005,코발트도 같이 간다는 조건으로만 받았어요.
+npcrufus_Other11Say_006,코발트는 아주 성실한 사무직이에요.
+npcrufus_Other11Say_007,비스티볼을 할 시간은 별로 없었을 거예요.
+npcrufus_Other11Say_008,제일 관심 있는 건 아닐지도 몰라요.|| 하지만 모든 비스티한테 필요한 거죠.
+npcrufus_Other11Say_009,사람도 쉴 시간이 필요하고요.
+npcrufus_Other11Say_010,바다를 만져 본 게 너무 오래됐네요.
+npcrufus_Other11Say_011,리그 일은 늘 바빴어요.
+npcrufus_Other11Say_012,"어디나 다 그렇겠죠,| 안 그래요?"
+npcrufus_Other11Say_013,계획은 늘 인력보다 빨리 불어나요.
+npcrufus_Other11Say_014,그래서 항상 따라잡기 바쁘죠.
+npcrufus_Other11Say_015,불만은 없어요.|| 오히려 일이 즐거워요.
+npcrufus_Other11Say_016,그래도 바쁘다 보면 몇 달이 훌쩍 지나가 버리기 쉬워요.
+npcrufus_Other11Say_017,휴가도 이제 거의 끝나 가요.
+npcrufus_Other11Say_018,그런데 저희가 없는 사이에 리그가 완전히 달라진 것 같아요.
+npcrufus_Other11Say_019,휴가를 딱 맞는 때에 쓴 것 같네요.
+npcrufus_Other11Say_020,아니면 딱 안 맞는 때였을지도...
+npcrufus_Other11Say_021,돌아가면 어떤 일이 기다리고 있을지 궁금하네요.
 Savanah_Create0npcname_001,Savanah
 Savanah_Other11Say_001,My parents spent good money to get me into this Academy.
 Savanah_Other11Say_002,Let's see how it paid off!
@@ -12501,27 +12501,27 @@ SecretYeti_Other10Say_001,({0}'s location was registered to your Beastiepedia!)
 SecretYeti_Other10Say_002,(You can track their wandering location if you want to find them again...)
 SecretYeti_Other13Say_001,A Beastie is here awaiting a challenger...
 Simge_Create0npcname_001,Simge
-npcsimge_Other11Say_001,This girl I know from school is a big stinky liar.
-npcsimge_Other11Say_002,She told me her dad took her camping one time and they saw an [c_red]Extinct Beastie.
-npcsimge_Other11Say_003,In real life!|| It's so stupid to lie about something like that.
-npcsimge_Other11Say_004,I wish I could see an extinct Beastie.|| But everyone knows that's impossible...
-npcsimge_Other11Ask_001,I wish I could see an extinct Beastie.|| But everyone knows that's impossible...
-npcsimge_Other11Ask_002,Show her your Beastiepedia...
-npcsimge_Other11Ask_003,"^Yeah, it's impossible"
-npcsimge_Other11Say_005,"Yeah,| I know!"
-npcsimge_Other11_001,Show an\nextinct Beastie
-npcsimge_Other11Say_006,"Um,| that Beastie isn't extinct..."
-npcsimge_Other11Say_007,"They look pretty...|| IN|-stinct,| to me."
-npcsimge_Other11Say_008,"Wait,| is that how you say that...?"
-npcsimge_Other11Say_009,"Anyways,| I don't care."
-npcsimge_Other11Say_010,Wow.
-npcsimge_Other11Say_011,Wait.
-npcsimge_Other11Say_012,"[shake][scale,2]WHAT?!"
-npcsimge_Other11Say_013,That is so so so so so SO cool!!!
-npcsimge_Other11Say_014,Take this
-npcsimge_Other11Say_015,I still think my friends's a big stinky liar...
-npcsimge_Other11Say_016,But now I can tell her I actually |DID see an extinct Beastie
-npcsimge_Other11Say_017,I was going to show off my shiny object...| this is way better
+npcsimge_Other11Say_001,학교에서 아는 애가 있는데 완전 냄새나는 거짓말쟁이야.
+npcsimge_Other11Say_002,걔가 아빠랑 캠핑 갔다가 [c_red]멸종 비스티를 봤대.
+npcsimge_Other11Say_003,진짜로!|| 그런 걸로 거짓말하는 거 완전 바보 같아.
+npcsimge_Other11Say_004,나도 멸종 비스티 보고 싶다.|| 근데 그게 불가능하다는 건 다 알잖아...
+npcsimge_Other11Ask_001,나도 멸종 비스티 보고 싶다.|| 근데 그게 불가능하다는 건 다 알잖아...
+npcsimge_Other11Ask_002,비스티피디아를 보여 준다...
+npcsimge_Other11Ask_003,"^맞아, 불가능하지"
+npcsimge_Other11Say_005,"그치,| 내 말이!"
+npcsimge_Other11_001,멸종 비스티\n보여 주기
+npcsimge_Other11Say_006,"음,| 그 비스티는 멸종 안 했는데..."
+npcsimge_Other11Say_007,내가 보기엔 완전...|| |생|종한 것 같은데.
+npcsimge_Other11Say_008,"잠깐,| 이렇게 말하는 거 맞나...?"
+npcsimge_Other11Say_009,"아무튼,| 상관없어."
+npcsimge_Other11Say_010,우와.
+npcsimge_Other11Say_011,잠깐.
+npcsimge_Other11Say_012,"[shake][scale,2]뭐?!"
+npcsimge_Other11Say_013,이거 진짜 진짜 진짜 진짜 진짜 완전 멋있다!!!
+npcsimge_Other11Say_014,이거 가져
+npcsimge_Other11Say_015,그래도 내 친구는 완전 냄새나는 거짓말쟁이라고 생각하지만...
+npcsimge_Other11Say_016,이제 나도 멸종 비스티를 |진짜로 봤다고 말할 수 있어
+npcsimge_Other11Say_017,내 반짝이는 물건 자랑하려고 했는데...| 이게 훨씬 낫다
 Sit_Create0npcname_001,Sit
 Spawner_Other10Ask_001,Want to play a match with {0}?
 Spawner_Other10Ask_002,Yeah!
@@ -12616,33 +12616,33 @@ Sunkenplaque_Create0npcname_001,Info...
 Throwable_Create0npcname_001,Pick up
 Throwablelitter_Create0npcname_001,Litter...
 Tianyi_Create0npcname_001,Tianyi
-npctianyi_Other11Say_001,"We're proud of our giant tree in Begonia,| yes."
-npctianyi_Other11Say_002,"But they say that in ages past,| there were many trees like it."
-npctianyi_Other11Say_003,Imagine an entire forest of trees this great...
-npctianyi_Other11Say_004,"Well,| true or not,| it's certainly true that this is the only tree of its kind today."
-npctianyi_Other11Say_005,The people of Begonia are closely connected with our mother tree.
-npctianyi_Other11Say_006,"I was taught growing up that it was sacred,| something to protect."
-npctianyi_Other11Say_007,I think anyone who looks at it can understand that instinct.
-npctianyi_Other11Say_008,I remind myself to be grateful for it every day.
+npctianyi_Other11Say_001,베고니아의 거대한 나무는 우리의 자랑이에요.
+npctianyi_Other11Say_002,그런데 아주 먼 옛날에는 이런 나무가 많았다고 해요.
+npctianyi_Other11Say_003,이렇게 거대한 나무로 가득한 숲을 상상해 보세요...
+npctianyi_Other11Say_004,"뭐,| 사실이든 아니든,| 지금 이런 나무가 이거 하나뿐인 건 확실해요."
+npctianyi_Other11Say_005,베고니아 사람들은 우리 어머니 나무와 깊이 이어져 있어요.
+npctianyi_Other11Say_006,어릴 때부터 이 나무는 신성하고 지켜야 할 존재라고 배웠죠.
+npctianyi_Other11Say_007,이 나무를 보면 누구나 그 마음을 이해할 수 있을 거예요.
+npctianyi_Other11Say_008,매일 이 나무에 감사하자고 스스로 되새겨요.
 Toilet_Other10npcname_001,Sink
 Toilet_Other10npcname_002,Fountain
 Toilet_Create0npcname_001,Toilet
 Tomislav_Create0npcname_001,Tomislav
-npctomislav_Other11Say_001,There's a lot of history in Thousand Views.
-npctomislav_Other11Say_002,It's the oldest part of Geo City...
-npctomislav_Other11Say_003,It was essentially a luxury community for the wealthy elite who emerged from the Jasper gold rush.
-npctomislav_Other11Say_004,"All the oldest mansions were lost to a great fire,| however."
-npctomislav_Other11Say_005,"After the gold rush died down,| the city needed to expand in new directions."
-npctomislav_Other11Say_006,"That's how and when the Geo City we know really came to be,| around ports to the south."
-npctomislav_Other11Say_007,And that's where the wealthy all migrated to.
-npctomislav_Other11Say_008,Motivated of course in part by the fire...|| and the miner's rebellion...
-npctomislav_Other11Say_009,(Which may or may not have all been related...)
-npctomislav_Other11Say_010,"Time and time again,| I'm struck by how historical events are driven by small players."
-npctomislav_Other11Say_011,We too easily take the world as it is for granted.
-npctomislav_Other11Say_012,But it's actually the end result of power conflicts that go back centuries.
-npctomislav_Other11Say_013,Well.|| Not even the end result.|| A snapshot of an ongoing process.
-npctomislav_Other11Say_014,"Even we,|| here,|| today,|| are making decisions that shape the next step of history."
-npctomislav_Other11Say_015,How can anyone get bored of that?
+npctomislav_Other11Say_001,Thousand Views에는 역사가 많이 담겨 있어.
+npctomislav_Other11Say_002,지오 시티에서 가장 오래된 지역이거든...
+npctomislav_Other11Say_003,원래는 재스퍼 골드러시로 생겨난 부유층을 위한 고급 주거지였지.
+npctomislav_Other11Say_004,그런데 가장 오래된 저택들은 큰불로 다 사라졌어.
+npctomislav_Other11Say_005,"골드러시가 잠잠해진 뒤,| 도시는 새로운 방향으로 커져야 했지."
+npctomislav_Other11Say_006,그때 남쪽 항구를 중심으로 지금 우리가 아는 지오 시티가 생겨난 거야.
+npctomislav_Other11Say_007,그리고 부자들은 다 그쪽으로 옮겨 갔어.
+npctomislav_Other11Say_008,물론 그 큰불도 이유였고...|| 광부들의 반란도...
+npctomislav_Other11Say_009,(전부 서로 관련이 있었을지도 모르고...)
+npctomislav_Other11Say_010,역사적인 사건이 작은 사람들에 의해 움직인다는 게 볼 때마다 놀라워.
+npctomislav_Other11Say_011,우린 세상을 너무 쉽게 당연하게 여겨.
+npctomislav_Other11Say_012,근데 사실 지금의 세상은 몇백 년에 걸친 권력 다툼의 결과야.
+npctomislav_Other11Say_013,아니.|| 결과도 아니지.|| 계속 진행 중인 과정의 한 장면이야.
+npctomislav_Other11Say_014,"우리조차도,|| 여기서,|| 오늘,|| 역사의 다음 걸음을 만드는 결정을 하고 있어."
+npctomislav_Other11Say_015,어떻게 이게 지루할 수가 있겠어?
 Trainboss_Other10Say_001,"Before you know it,| they're scampering off into the hills..."
 Trainboss_Other10Say_002,(The mysterious Beastie was registered to your MAP!)
 Trainboss_Other10Say_003,(You can track their wandering location to research them...)
@@ -12658,21 +12658,21 @@ beryltrent_Other11Say_007,She's so multi-talented she makes me feel lazy.
 beryltrent_Other11Say_008,"Beastieball is what she's known for,| but I think Riven's written a LOT of books."
 beryltrent_Other11Say_009,"I |think,| anyway.|| Haven't read any."
 Trizah_Create0npcname_001,Trizah
-npctrizah_Other11Say_001,[wave]Ahhhh!!![/wave]
-npctrizah_Other11Say_002,THIS| is the |LIFE!
-npctrizah_Other11Say_003,I can take a train straight from Geo City to this perfect little beach...
-npctrizah_Other11Say_004,I need to do this every day...
-npctrizah_Other11Say_005,The train to here's still on the old Railhouse line.
-npctrizah_Other11Say_006,That must be why it's still under the radar.
-npctrizah_Other11Say_007,"Once they link it with the Zip Station lines,| it's all over..."
-npctrizah_Other11Say_008,Geo City's transit is pretty dope.
-npctrizah_Other11Say_009,Every rail leads to Hyperlink Terminal...
-npctrizah_Other11Say_010,"That's right where my apartment is,| so I can literally get anywhere."
-Tutorialtext_Draw64_001,Use {0} to move
-Tutorialtext_Draw64_002,Move using WASD or Arrow Keys
-Tutorialtext_Draw64_003,"Use {0}, {1}, {2}, {3} to move"
-Tutorialtext_Draw64_004,Press {0} to hustle
-Tutorialtext_Draw64_005,Press {0} for MAP and objectives
+npctrizah_Other11Say_001,[wave]아아아아!!![/wave]
+npctrizah_Other11Say_002,|이게| |인생이지!
+npctrizah_Other11Say_003,지오 시티에서 기차 타고 바로 이 완벽한 작은 해변까지 올 수 있다니...
+npctrizah_Other11Say_004,이거 매일 해야겠어...
+npctrizah_Other11Say_005,여기 오는 기차는 아직 옛날 레일하우스 노선이야.
+npctrizah_Other11Say_006,그래서 아직 아는 사람이 별로 없나 봐.
+npctrizah_Other11Say_007,"집 스테이션 노선이랑 연결되면,| 다 끝이야..."
+npctrizah_Other11Say_008,지오 시티 교통은 꽤 쩔어.
+npctrizah_Other11Say_009,모든 철도가 하이퍼링크 터미널로 이어지거든...
+npctrizah_Other11Say_010,"거기가 바로 우리 집이라서,| 말 그대로 어디든 갈 수 있어."
+Tutorialtext_Draw64_001,{0}(으)로 이동
+Tutorialtext_Draw64_002,WASD 또는 방향키로 이동
+Tutorialtext_Draw64_003,"{0}, {1}, {2}, {3}(으)로 이동"
+Tutorialtext_Draw64_004,{0}을(를) 눌러 허슬
+Tutorialtext_Draw64_005,{0}을(를) 눌러 지도와 목표 보기
 UnderConstruction_Create0npcname_001,Under Construction
 UnderConstruction_Other11Say_001,This area is UNDER CONSTRUCTION!
 UnderConstruction_Other11Say_002,Come back someday...|| there might be something in future updates.
@@ -12700,40 +12700,40 @@ vukretirechat_Other11Say_003,But I like seeing them at the cafe.
 vukretirechat_Other11Say_004,I asked if they were happy and they said yes and that they helped their family with the treasure they found.
 Wardrobe_Create0npcname_001,Change Clothes
 Yamileidys_Create0npcname_001,Yamileidys
-npcyamileidis_Other11Say_001,I love how Beasties metamorph.|| I think it's inspiring.
-npcyamileidis_Other11Say_002,"I mean,| people are exactly the same way."
-npcyamileidis_Other11Say_003,"We go to new places and meet new people,| new challenges."
-npcyamileidis_Other11Say_004,And those experiences transform us.| Just like it does for Beasties.
-npcyamileidis_Other11Say_005,We just don't always change as much on the outside.
-npcyamileidis_Other11Say_006,I was |SUCH an anxious kid.
-npcyamileidis_Other11Say_007,"I always felt so ugly,| uncool,| weird..."
-npcyamileidis_Other11Say_008,I didn't wanna leave my house or talk to anyone.
-npcyamileidis_Other11Say_009,"And,|| y'know,|| nothing really changed since then except my outlook and my fashion."
-npcyamileidis_Other11Say_010,I call that metamorphosis.
-npcyamileidisseries_Other11Say_001,This thing about a giant mushroom network...|| fascinating!
-npcyamileidisseries_Other11Say_002,It would certainly explain why there's weird animals that play sports all the time.
-npcyamileidisseries_Other11Say_003,"I mean,| not that I needed an explanation."
-npcyamileidisseries_Other11Say_004,But...|| it just makes sense!
+npcyamileidis_Other11Say_001,비스티가 변이하는 게 너무 좋아.|| 영감을 주는 것 같아.
+npcyamileidis_Other11Say_002,"그러니까,| 사람도 똑같잖아."
+npcyamileidis_Other11Say_003,새로운 곳에 가고 새로운 사람과 새로운 도전을 만나지.
+npcyamileidis_Other11Say_004,그런 경험이 우리를 바꿔.| 비스티처럼.
+npcyamileidis_Other11Say_005,다만 겉모습은 그만큼 많이 안 바뀔 뿐이지.
+npcyamileidis_Other11Say_006,난 어릴 때 |진짜 불안이 심했어.
+npcyamileidis_Other11Say_007,"항상 내가 못생기고,| 촌스럽고,| 이상하다고 느꼈지..."
+npcyamileidis_Other11Say_008,"집 밖에 나가기도, 누구랑 얘기하기도 싫었어."
+npcyamileidis_Other11Say_009,"그리고,|| 있잖아,|| 그때 이후로 바뀐 건 생각이랑 패션밖에 없어."
+npcyamileidis_Other11Say_010,난 그걸 변이라고 불러.
+npcyamileidisseries_Other11Say_001,거대한 버섯 네트워크라니...|| 흥미롭다!
+npcyamileidisseries_Other11Say_002,이상한 동물들이 왜 맨날 스포츠를 하는지 확실히 설명이 되겠네.
+npcyamileidisseries_Other11Say_003,"뭐,| 굳이 설명이 필요했던 건 아니지만."
+npcyamileidisseries_Other11Say_004,그래도...|| 딱 말이 되잖아!
 Yoandy_Create0npcname_001,Yoandy
-npcyoandy_Other11Say_001,"{0} are,| simply,| the coolest Beasties and it's not even close."
-npcyoandy_Other11Say_002,"They have the most fascinating lifecycle,| starting as just tiny {0}..."
-npcyoandy_Other11Say_003,But at their adult size they're large enough for small Beasties to live on their back.
-npcyoandy_Other11Say_004,And they don't stop growing there...
-npcyoandy_Other11Say_005,{0} can live for up to 200 years.
-npcyoandy_Other11Say_006,"When they get past 100,| they become the size of an entire island."
-npcyoandy_Other11Say_007,"Their huge shell can support an entire mini-ecosystem,| including Beastieball mushroom nets."
-npcyoandy_Other11Say_008,They'll surface at a moment's notice to serve as a Beastieball court...
-npcyoandy_Other11Say_009,"And thanks to that,| terrestrial Beasties are able to compete with aquatic ones."
-npcyoandy_Other11Say_010,But wait!| Their incredible story doesn't end there...
-npcyoandy_Other11Say_011,"When an island sized {0} finally dies,| they don't just vanish."
-npcyoandy_Other11Say_012,Their body sinks to the floor of the ocean...
-npcyoandy_Other11Say_013,"And remains there as a huge fixture,| sustaining yet another Beastie ecosystem for decades."
-npcyoandy_Other11Say_014,"At every stage of their life,| these Beasties are supporting their environment."
-npcyoandy_Other11Say_015,You simply must respect that.
-npcyoandy_Other11Say_016,"The cycles of {0} Falls began millennia ago,| with their ancient evolutionary ancestors."
-npcyoandy_Other11Say_017,There's even evidence that they were critical to Beastieball nets first reaching the ocean floor.
-npcyoandy_Other11Say_018,And that gave rise to the evolution of undersea Beasties...
-npcyoandy_Other11Say_019,...||So?|| Are they not the coolest Beastie?!
+npcyoandy_Other11Say_001,"{0}은(는),| 그냥,| 압도적으로 제일 멋진 비스티야."
+npcyoandy_Other11Say_002,생애 주기가 엄청 흥미롭거든. 처음엔 조그만 {0}(으)로 시작해서...
+npcyoandy_Other11Say_003,다 크면 등 위에 작은 비스티들이 살 수 있을 만큼 커져.
+npcyoandy_Other11Say_004,근데 거기서 멈추지 않아...
+npcyoandy_Other11Say_005,{0}은(는) 최대 200년까지 살 수 있어.
+npcyoandy_Other11Say_006,"100살이 넘으면,| 섬 하나만큼 커지지."
+npcyoandy_Other11Say_007,거대한 등껍질 위에는 비스티볼 버섯 네트까지 있는 작은 생태계가 통째로 살 수 있어.
+npcyoandy_Other11Say_008,언제든 떠올라서 비스티볼 경기장이 돼 주지...
+npcyoandy_Other11Say_009,덕분에 육지 비스티도 수중 비스티랑 겨룰 수 있는 거야.
+npcyoandy_Other11Say_010,잠깐!| 이 놀라운 이야기는 여기서 끝이 아니야...
+npcyoandy_Other11Say_011,"섬만 한 {0}이(가) 마침내 죽어도,| 그냥 사라지지 않아."
+npcyoandy_Other11Say_012,몸이 바다 밑바닥으로 가라앉아서...
+npcyoandy_Other11Say_013,"거대한 지형으로 남아, 몇십 년 동안 또 다른 비스티 생태계를 먹여 살려."
+npcyoandy_Other11Say_014,이 비스티들은 평생 모든 순간에 자기 환경을 돌보고 있는 거야.
+npcyoandy_Other11Say_015,존경할 수밖에 없지.
+npcyoandy_Other11Say_016,"{0} 폴의 순환은 수천 년 전, 고대의 진화상 조상 때부터 시작됐어."
+npcyoandy_Other11Say_017,비스티볼 네트가 처음 바다 밑바닥까지 퍼진 것도 이 덕분이라는 증거가 있어.
+npcyoandy_Other11Say_018,그게 해저 비스티들의 진화로 이어졌고...
+npcyoandy_Other11Say_019,...||그래서?|| 제일 멋진 비스티 맞지?!
 Ysabella_Create0npcname_001,Ysabella
 npclucille_Other11Say_025,
 npclucille_Other11Say_026,
@@ -12751,12 +12751,12 @@ npclucilleboss_Other11Say_007,
 npclucilleboss_Other11Say_008,
 npclucilleboss_Other11Say_009,
 Zara_Create0npcname_001,Zara
-npczara_Other11Say_001,I got to come see the Gamboge Pirate Show for my birthday!
-npczara_Other11Say_002,"When I grow up,| I'm going to be a pirate!"
-npczara_Other11Say_003,I wanted to come here my entire life.
-npczara_Other11Say_004,The Party Pirate Picnic Port is my favorite place in the whole entire world.
-npczara_Other11Say_005,The only bad thing is that the Party Pirates play sports sometimes.
-npczara_Other11Say_006,That just seems stupid.
+npczara_Other11Say_001,생일 선물로 갬부지 해적 쇼 보러 왔어!
+npczara_Other11Say_002,난 크면 해적이 될 거야!
+npczara_Other11Say_003,평생 여기 오고 싶었어.
+npczara_Other11Say_004,파티 해적 피크닉 포트는 온 세상에서 내가 제일 좋아하는 곳이야.
+npczara_Other11Say_005,딱 하나 안 좋은 건 파티 해적단이 가끔 스포츠를 한다는 거야.
+npczara_Other11Say_006,그건 좀 바보 같아.
 ItemGet_Say_001,"You got...||\n[scale,1.5]{0}!"
 ItemGet_Say_002,"You got...||\n[scale,1.5]{1}x {0}!"
 ItemGet_Say_003,({0}:| {1})
@@ -15839,16 +15839,16 @@ sportbossend_001,SPORTS KING|||GAME{0}DESIGNER||[c_orange]VISIONARY||SPORTS{0}SC
 sportbossend_002,"BARNES  MCBRIDE|||COACH OF {0}|||THE WORLD'S HIGHEST PAID SPORTS FRANCHISE||||RANK||[sprNumberone,1]"
 sportend_015,{0} STREAK! (x{1} payout!)
 sportend_016,STREAK CLEAR!!! (x{1} payout!)
-sportsetup_Say_054,QUAKE is a field effect that deals {0} damage every time a Beastie VOLLEYs!
-sportsetup_Say_055,"The quakes will fade over time,| or after dealing damage."
-sportsetup_Say_056,"Yeah,| yeah,| yeah,| YEAH,|| [shake]YEAH!!!!"
-sportsetup_Say_057,You cleared a full Recruit Streak!|| That's what we wanna see at Staying Power!
-sportsetup_Say_058,We're upgrading your sponsorship right away!
-sportsetup_Say_059,Staying Power fitness is now a Gold Level Sponsor.
-sportsetup_Say_060,More items will be available when you take a Beastie to train at a Gym.
-sportsetup_Say_061,We hope you go for more Streaks like that one!
-sportsetup_Say_062,We'll make sure you're paid handsomely for your effort.
-sportsetup_Say_063,"And if you want to advance this partnership further,| come talk to me at a Gym sometime."
+sportsetup_Say_054,퀘이크는 비스티가 발리할 때마다 {0} 대미지를 주는 필드 효과예요!
+sportsetup_Say_055,퀘이크는 시간이 지나거나| 대미지를 주면 약해져요.
+sportsetup_Say_056,"예,| 예,| 예,| 예에,|| [shake]예에에!!!!"
+sportsetup_Say_057,영입 연속 달성을 완벽하게 해냈군!|| Staying Power가 보고 싶었던 게 바로 그거야!
+sportsetup_Say_058,당장 후원 등급을 올려 주지!
+sportsetup_Say_059,Staying Power 피트니스가 이제 골드 등급 스폰서가 됐습니다.
+sportsetup_Say_060,체육관에 비스티를 데려가 훈련하면 더 많은 아이템을 쓸 수 있어.
+sportsetup_Say_061,앞으로도 그런 연속 달성을 계속 노려 줘!
+sportsetup_Say_062,노력한 만큼 두둑하게 챙겨 주겠어.
+sportsetup_Say_063,"이 파트너십을 더 키우고 싶으면,| 언제 체육관에서 날 찾아와."
 statuseffectstuff_029,WEEPY
 statuseffectstuff_030,(ignores BOOSTs)
 teaminit_001,left
@@ -15996,7 +15996,7 @@ Pirate_Other13_007,"WHAT?| Think again,| landlubber!"
 Pirate_Other13_008,"Uhhh, are you OK?!"
 Pirate_Other13_009,It's just Beastieball...
 Pirate_Other13_010,(Stay quiet).
-Tutorial_Create0_015,YEARS LATER...
+Tutorial_Create0_015,몇 년 후...
 classbeastielog_023,Communed with a mushroom colony in {0location}.
 settingsstuff_213,상대 제스처
 settingsstuff_214,박수처럼 상대가 보내는 간단한 시각·소리 신호를 받을지 정해요
@@ -18220,19 +18220,19 @@ movessetup_movedefine_204,Flying Kick
 movessetup_movedefine_205,Kick
 movessetup_movedefine_206,Explosive Spirit
 movessetup_movedefine_207,Squeeze
-npcmod_Other11Say_001,I used to have a {0}...
-npcmod_Other11Say_002,But they were really high-energy and needed to play more than I could provide.
-npcmod_Other11Say_003,I wound up trading them to someone else for this {0}.
-npcmod_Other11Say_004,They're a lot more chill and fit me better.
-npcmod_Other11Say_005,I do miss my {0} sometimes though.|| Hope they're happy out there...
-npcmod_Other11Say_006,My {0} definitely missed their old coach at first.
-npcmod_Other11Say_007,I was worried they'd never warm up to me...
-npcmod_Other11Say_008,"But,| we've become buddies.|| I think {0} is happier with me now."
-npcmod_Other11Say_009,"Trading can be hard on Beasties,| and on coaches too."
-npcmod_Other11Say_010,But it's really not that unusual.
-npcmod_Other11Say_011,Beasties naturally leave their home to travel with people.
-npcmod_Other11Say_012,They're well acclimated to changing their pack and environment.
-npcmod_Other11Say_013,It's scary...| but it's also how they grow stronger.
+npcmod_Other11Say_001,예전에 {0}을(를) 키웠는데...
+npcmod_Other11Say_002,에너지가 너무 넘쳐서 내가 놀아 줄 수 있는 것보다 훨씬 많이 놀아야 했어.
+npcmod_Other11Say_003,결국 다른 사람한테 보내고 이 {0}을(를) 받았지.
+npcmod_Other11Say_004,얘는 훨씬 느긋해서 나랑 더 잘 맞아.
+npcmod_Other11Say_005,그래도 가끔 그 {0}이(가) 보고 싶어.|| 거기서 행복했으면 좋겠다...
+npcmod_Other11Say_006,내 {0}도 처음엔 예전 코치를 엄청 그리워했어.
+npcmod_Other11Say_007,영영 나한테 마음을 안 열까 봐 걱정했는데...
+npcmod_Other11Say_008,"근데,| 이제 우린 단짝이 됐어.|| {0}도 지금 나랑 있는 게 더 행복한 것 같아."
+npcmod_Other11Say_009,"교환은 비스티한테도,| 코치한테도 힘들 수 있어."
+npcmod_Other11Say_010,그래도 그렇게 드문 일은 아니야.
+npcmod_Other11Say_011,비스티는 원래 집을 떠나 사람들이랑 여행하잖아.
+npcmod_Other11Say_012,무리나 환경이 바뀌는 데 익숙하거든.
+npcmod_Other11Say_013,무섭긴 하지만...| 그렇게 더 강해지는 거야.
 encounterssetup_classbeastieencounter_683,Gummi
 menussetup_dexfield_025,
 menussetup_dexfield_026,

@@ -4,6 +4,9 @@
 
 > ⚠️ 이 프로젝트는 개발사 Wishes Unlimited와 관련이 없습니다.
 
+| 이미지 1 | 이미지 2 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/22b8bda6-f674-4f4a-b6af-1412a740db14" width="69%" /> | <img src="https://github.com/user-attachments/assets/1d5096e6-09c5-4779-80e3-e24d5b493e92" width="49%" /> |
 ## 번역 진행도 (v0.1)
 
 ![번역 진행도](https://img.shields.io/badge/%EB%B2%88%EC%97%AD%20%EC%A7%84%ED%96%89%EB%8F%84-12.4%25-blue)

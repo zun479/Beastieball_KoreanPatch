@@ -6,7 +6,7 @@
 
 | 이미지 1 | 이미지 2 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/22b8bda6-f674-4f4a-b6af-1412a740db14" width="69%" /> | <img src="https://github.com/user-attachments/assets/1d5096e6-09c5-4779-80e3-e24d5b493e92" width="49%" /> |
+| <img src="https://github.com/user-attachments/assets/22b8bda6-f674-4f4a-b6af-1412a740db14" width="69%" /> | <img src="https://github.com/user-attachments/assets/a62fdc17-df16-44d8-9d81-b7c05e32dc42" width="59%" /> |
 
 ## 번역 진행도 (v0.1)
 
